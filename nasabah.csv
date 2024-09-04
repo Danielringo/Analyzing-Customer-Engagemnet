@@ -1,0 +1,1001 @@
+id_nasabah,nama,tanggal_lahir,alamat,no_telepon,email,jenis_kelamin,pekerjaan
+1001,Joko Wijaya,1995-11-11,Jl. Merdeka No. 10 Yogyakarta,08115471334,joko.wijaya@email.com,Laki-laki,Insinyur
+1002,Ahmad Hidayat,1971-07-16,Jl. Merdeka No. 66 Semarang,08381302865,ahmad.hidayat@email.com,Perempuan,Guru
+1003,Ani Santoso,1994-07-27,Jl. Gatot Subroto No. 53 Semarang,08460213766,ani.santoso@email.com,Laki-laki,Insinyur
+1004,Ahmad Hidayat,2000-06-11,Jl. Pahlawan No. 35 Semarang,08003885568,ahmad.hidayat@email.com,Perempuan,Dokter
+1005,Dewi Kusuma,1993-12-27,Jl. Gatot Subroto No. 49 Surabaya,08289044122,dewi.kusuma@email.com,Laki-laki,Guru
+1006,Rina Lestari,1973-04-08,Jl. Diponegoro No. 55 Semarang,08710126898,rina.lestari@email.com,Laki-laki,Pengacara
+1007,Dewi Saputra,1988-07-18,Jl. Pahlawan No. 47 Yogyakarta,08615721971,dewi.saputra@email.com,Perempuan,Insinyur
+1008,Rina Nurhayati,2000-09-09,Jl. Diponegoro No. 99 Jakarta,08540681242,rina.nurhayati@email.com,Perempuan,Guru
+1009,Siti Kusuma,1999-12-18,Jl. Merdeka No. 90 Semarang,08640852345,siti.kusuma@email.com,Perempuan,Wiraswasta
+1010,Budi Santoso,2000-05-15,Jl. Pahlawan No. 42 Jakarta,08017018802,budi.santoso@email.com,Laki-laki,Pegawai Negeri
+1011,Dewi Saputra,1982-07-25,Jl. Merdeka No. 91 Semarang,08993519107,dewi.saputra@email.com,Perempuan,Wiraswasta
+1012,Ani Saputra,1987-04-03,Jl. Pahlawan No. 11 Semarang,08705127175,ani.saputra@email.com,Perempuan,Pegawai Negeri
+1013,Budi Hidayat,1974-03-17,Jl. Pahlawan No. 42 Yogyakarta,08424531004,budi.hidayat@email.com,Laki-laki,Pegawai Negeri
+1014,Rudi Santoso,1982-09-11,Jl. Merdeka No. 66 Jakarta,08899277789,rudi.santoso@email.com,Perempuan,Guru
+1015,Budi Kusuma,1979-12-22,Jl. Sudirman No. 45 Yogyakarta,08445457463,budi.kusuma@email.com,Laki-laki,Pengacara
+1016,Ani Nurhayati,1987-10-09,Jl. Pahlawan No. 40 Semarang,08788000058,ani.nurhayati@email.com,Laki-laki,Guru
+1017,Rina Lestari,1997-11-21,Jl. Pahlawan No. 49 Yogyakarta,08103077899,rina.lestari@email.com,Perempuan,Akuntan
+1018,Budi Lestari,1995-09-28,Jl. Sudirman No. 11 Surabaya,08418629789,budi.lestari@email.com,Laki-laki,Pengacara
+1019,Rudi Nurhayati,1998-02-21,Jl. Merdeka No. 9 Jakarta,08705519854,rudi.nurhayati@email.com,Perempuan,Insinyur
+1020,Ani Wijaya,1996-06-18,Jl. Gatot Subroto No. 50 Semarang,08230589365,ani.wijaya@email.com,Laki-laki,Pegawai Negeri
+1021,Ani Saputra,1995-05-23,Jl. Sudirman No. 42 Jakarta,08705282227,ani.saputra@email.com,Perempuan,Pengacara
+1022,Budi Wijaya,1997-11-16,Jl. Diponegoro No. 56 Surabaya,08100388007,budi.wijaya@email.com,Laki-laki,Pegawai Negeri
+1023,Ahmad Nurhayati,1970-07-08,Jl. Pahlawan No. 79 Bandung,08602707302,ahmad.nurhayati@email.com,Perempuan,Insinyur
+1024,Rudi Wijaya,1978-10-16,Jl. Sudirman No. 28 Surabaya,08163963352,rudi.wijaya@email.com,Perempuan,Dokter
+1025,Rudi Kusuma,1972-03-08,Jl. Merdeka No. 97 Semarang,08809109315,rudi.kusuma@email.com,Perempuan,Guru
+1026,Ahmad Saputra,1997-09-13,Jl. Diponegoro No. 16 Semarang,08579648773,ahmad.saputra@email.com,Perempuan,Pegawai Negeri
+1027,Dewi Hidayat,1981-05-27,Jl. Merdeka No. 6 Yogyakarta,08140170064,dewi.hidayat@email.com,Laki-laki,Guru
+1028,Rudi Wijaya,1977-04-12,Jl. Sudirman No. 71 Yogyakarta,08311408678,rudi.wijaya@email.com,Perempuan,Dokter
+1029,Siti Nurhayati,1981-02-12,Jl. Gatot Subroto No. 25 Bandung,08238646111,siti.nurhayati@email.com,Perempuan,Karyawan Swasta
+1030,Dewi Wijaya,1974-03-10,Jl. Merdeka No. 52 Yogyakarta,08053931258,dewi.wijaya@email.com,Laki-laki,Wiraswasta
+1031,Dewi Lestari,1977-03-12,Jl. Pahlawan No. 84 Jakarta,08632322019,dewi.lestari@email.com,Laki-laki,Dokter
+1032,Budi Saputra,1978-06-06,Jl. Merdeka No. 92 Jakarta,08496980775,budi.saputra@email.com,Perempuan,Pengacara
+1033,Rina Santoso,1976-06-19,Jl. Pahlawan No. 58 Semarang,08749291050,rina.santoso@email.com,Perempuan,Karyawan Swasta
+1034,Dewi Lestari,1972-06-26,Jl. Diponegoro No. 51 Yogyakarta,08127127920,dewi.lestari@email.com,Laki-laki,Karyawan Swasta
+1035,Dewi Santoso,1996-10-03,Jl. Gatot Subroto No. 30 Bandung,08323820599,dewi.santoso@email.com,Perempuan,Pengacara
+1036,Dewi Lestari,1994-03-08,Jl. Diponegoro No. 93 Surabaya,08949524187,dewi.lestari@email.com,Perempuan,Akuntan
+1037,Joko Nurhayati,1994-03-18,Jl. Gatot Subroto No. 81 Surabaya,08399776412,joko.nurhayati@email.com,Laki-laki,Karyawan Swasta
+1038,Rudi Wijaya,1990-06-09,Jl. Sudirman No. 89 Yogyakarta,08454858383,rudi.wijaya@email.com,Perempuan,Karyawan Swasta
+1039,Ani Kusuma,1986-12-01,Jl. Diponegoro No. 28 Semarang,08654716687,ani.kusuma@email.com,Laki-laki,Guru
+1040,Rudi Nurhayati,1974-10-29,Jl. Diponegoro No. 34 Surabaya,08365695812,rudi.nurhayati@email.com,Perempuan,Pengacara
+1041,Budi Lestari,1972-10-06,Jl. Gatot Subroto No. 33 Surabaya,08982778763,budi.lestari@email.com,Laki-laki,Wiraswasta
+1042,Ani Lestari,1984-09-05,Jl. Sudirman No. 8 Bandung,08493717079,ani.lestari@email.com,Laki-laki,Pengacara
+1043,Siti Hidayat,1973-09-27,Jl. Merdeka No. 74 Jakarta,08923293919,siti.hidayat@email.com,Perempuan,Karyawan Swasta
+1044,Ani Saputra,1988-12-04,Jl. Pahlawan No. 72 Yogyakarta,08249533327,ani.saputra@email.com,Perempuan,Wiraswasta
+1045,Joko Lestari,1982-07-30,Jl. Diponegoro No. 62 Jakarta,08384649541,joko.lestari@email.com,Perempuan,Akuntan
+1046,Dewi Lestari,1999-06-19,Jl. Sudirman No. 3 Semarang,08117861045,dewi.lestari@email.com,Perempuan,Dokter
+1047,Siti Kusuma,1983-09-13,Jl. Merdeka No. 78 Yogyakarta,08480216898,siti.kusuma@email.com,Perempuan,Karyawan Swasta
+1048,Rudi Nurhayati,1997-02-14,Jl. Pahlawan No. 10 Semarang,08383131283,rudi.nurhayati@email.com,Perempuan,Pengacara
+1049,Joko Hidayat,2000-04-21,Jl. Merdeka No. 30 Semarang,08189566147,joko.hidayat@email.com,Laki-laki,Wiraswasta
+1050,Dewi Lestari,1995-02-17,Jl. Diponegoro No. 22 Yogyakarta,08786860868,dewi.lestari@email.com,Laki-laki,Pengacara
+1051,Joko Hidayat,1983-01-18,Jl. Pahlawan No. 13 Yogyakarta,08993545028,joko.hidayat@email.com,Perempuan,Pegawai Negeri
+1052,Dewi Saputra,1988-01-08,Jl. Sudirman No. 38 Surabaya,08501927225,dewi.saputra@email.com,Perempuan,Pengacara
+1053,Dewi Santoso,1998-02-22,Jl. Pahlawan No. 60 Bandung,08416858287,dewi.santoso@email.com,Laki-laki,Guru
+1054,Ahmad Saputra,1973-07-28,Jl. Pahlawan No. 68 Bandung,08318839502,ahmad.saputra@email.com,Perempuan,Karyawan Swasta
+1055,Budi Lestari,1991-11-09,Jl. Gatot Subroto No. 100 Bandung,08584777117,budi.lestari@email.com,Laki-laki,Karyawan Swasta
+1056,Budi Wijaya,1989-04-02,Jl. Diponegoro No. 73 Surabaya,08391445573,budi.wijaya@email.com,Laki-laki,Guru
+1057,Dewi Wijaya,1974-09-24,Jl. Merdeka No. 69 Bandung,08806244652,dewi.wijaya@email.com,Perempuan,Akuntan
+1058,Ani Hidayat,1978-07-07,Jl. Merdeka No. 74 Bandung,08730633593,ani.hidayat@email.com,Laki-laki,Pegawai Negeri
+1059,Siti Wijaya,1985-10-16,Jl. Merdeka No. 16 Semarang,08955826720,siti.wijaya@email.com,Perempuan,Pengacara
+1060,Siti Kusuma,1992-03-01,Jl. Gatot Subroto No. 10 Semarang,08750639879,siti.kusuma@email.com,Laki-laki,Akuntan
+1061,Rina Wijaya,1998-05-09,Jl. Diponegoro No. 100 Semarang,08593696321,rina.wijaya@email.com,Perempuan,Akuntan
+1062,Rina Santoso,1981-09-11,Jl. Gatot Subroto No. 59 Jakarta,08555146730,rina.santoso@email.com,Perempuan,Karyawan Swasta
+1063,Ani Saputra,1970-07-23,Jl. Merdeka No. 28 Semarang,08030562505,ani.saputra@email.com,Laki-laki,Pegawai Negeri
+1064,Rudi Wijaya,1970-07-13,Jl. Gatot Subroto No. 36 Semarang,08486920601,rudi.wijaya@email.com,Perempuan,Guru
+1065,Budi Santoso,1997-02-11,Jl. Merdeka No. 54 Yogyakarta,08976267341,budi.santoso@email.com,Perempuan,Dokter
+1066,Siti Nurhayati,1972-04-25,Jl. Gatot Subroto No. 49 Surabaya,08410190392,siti.nurhayati@email.com,Laki-laki,Guru
+1067,Siti Wijaya,1986-12-25,Jl. Gatot Subroto No. 14 Jakarta,08720139398,siti.wijaya@email.com,Perempuan,Karyawan Swasta
+1068,Rina Saputra,1998-08-20,Jl. Diponegoro No. 62 Surabaya,08632960507,rina.saputra@email.com,Laki-laki,Insinyur
+1069,Rudi Saputra,1975-09-27,Jl. Pahlawan No. 41 Semarang,08739719179,rudi.saputra@email.com,Laki-laki,Pegawai Negeri
+1070,Dewi Saputra,1977-02-11,Jl. Merdeka No. 5 Semarang,08996359871,dewi.saputra@email.com,Laki-laki,Guru
+1071,Budi Santoso,1993-07-29,Jl. Gatot Subroto No. 37 Jakarta,08184632859,budi.santoso@email.com,Laki-laki,Pengacara
+1072,Dewi Wijaya,1989-03-24,Jl. Gatot Subroto No. 15 Bandung,08630059689,dewi.wijaya@email.com,Perempuan,Pengacara
+1073,Ani Santoso,1991-03-15,Jl. Gatot Subroto No. 41 Bandung,08360613208,ani.santoso@email.com,Perempuan,Pegawai Negeri
+1074,Rudi Hidayat,1992-09-02,Jl. Pahlawan No. 44 Semarang,08273133538,rudi.hidayat@email.com,Laki-laki,Insinyur
+1075,Budi Hidayat,1977-10-20,Jl. Merdeka No. 90 Jakarta,08562824325,budi.hidayat@email.com,Perempuan,Karyawan Swasta
+1076,Rina Wijaya,1973-05-05,Jl. Gatot Subroto No. 70 Yogyakarta,08289326443,rina.wijaya@email.com,Laki-laki,Wiraswasta
+1077,Siti Santoso,1981-02-19,Jl. Merdeka No. 82 Surabaya,08159182208,siti.santoso@email.com,Laki-laki,Wiraswasta
+1078,Siti Wijaya,1982-11-13,Jl. Diponegoro No. 38 Bandung,08500565502,siti.wijaya@email.com,Laki-laki,Akuntan
+1079,Joko Kusuma,1971-08-05,Jl. Merdeka No. 85 Jakarta,08761179905,joko.kusuma@email.com,Laki-laki,Akuntan
+1080,Ani Nurhayati,1970-11-23,Jl. Merdeka No. 51 Jakarta,08230768362,ani.nurhayati@email.com,Laki-laki,Dokter
+1081,Rudi Hidayat,2000-08-28,Jl. Pahlawan No. 16 Jakarta,08483550429,rudi.hidayat@email.com,Perempuan,Pegawai Negeri
+1082,Rina Lestari,1985-11-09,Jl. Sudirman No. 84 Semarang,08303309411,rina.lestari@email.com,Laki-laki,Wiraswasta
+1083,Joko Wijaya,1980-08-18,Jl. Diponegoro No. 84 Jakarta,08619441701,joko.wijaya@email.com,Laki-laki,Pegawai Negeri
+1084,Dewi Lestari,1983-07-26,Jl. Merdeka No. 87 Jakarta,08495782973,dewi.lestari@email.com,Laki-laki,Pengacara
+1085,Budi Saputra,1977-11-01,Jl. Diponegoro No. 24 Jakarta,08898031284,budi.saputra@email.com,Perempuan,Pengacara
+1086,Siti Nurhayati,1977-11-25,Jl. Sudirman No. 72 Surabaya,08824467455,siti.nurhayati@email.com,Laki-laki,Guru
+1087,Ani Lestari,1977-09-18,Jl. Merdeka No. 20 Bandung,08880530461,ani.lestari@email.com,Laki-laki,Wiraswasta
+1088,Rina Kusuma,1988-10-21,Jl. Pahlawan No. 96 Bandung,08306901036,rina.kusuma@email.com,Perempuan,Pengacara
+1089,Rina Santoso,1993-05-08,Jl. Gatot Subroto No. 83 Surabaya,08801556452,rina.santoso@email.com,Laki-laki,Pengacara
+1090,Dewi Kusuma,1987-06-22,Jl. Gatot Subroto No. 18 Semarang,08458636658,dewi.kusuma@email.com,Perempuan,Pengacara
+1091,Ahmad Lestari,1997-09-09,Jl. Gatot Subroto No. 98 Bandung,08820192117,ahmad.lestari@email.com,Perempuan,Karyawan Swasta
+1092,Dewi Kusuma,1978-09-11,Jl. Merdeka No. 61 Yogyakarta,08014874151,dewi.kusuma@email.com,Laki-laki,Dokter
+1093,Siti Lestari,1971-08-22,Jl. Sudirman No. 98 Surabaya,08620460132,siti.lestari@email.com,Perempuan,Insinyur
+1094,Rina Wijaya,1981-05-10,Jl. Merdeka No. 42 Jakarta,08109393941,rina.wijaya@email.com,Laki-laki,Wiraswasta
+1095,Ani Saputra,1999-06-25,Jl. Merdeka No. 51 Surabaya,08299602828,ani.saputra@email.com,Laki-laki,Dokter
+1096,Rudi Wijaya,1979-04-24,Jl. Pahlawan No. 100 Semarang,08144643399,rudi.wijaya@email.com,Perempuan,Pegawai Negeri
+1097,Ahmad Hidayat,1993-04-04,Jl. Diponegoro No. 14 Bandung,08229515952,ahmad.hidayat@email.com,Laki-laki,Akuntan
+1098,Rudi Saputra,1976-12-27,Jl. Pahlawan No. 9 Jakarta,08553665931,rudi.saputra@email.com,Laki-laki,Insinyur
+1099,Dewi Kusuma,1985-06-13,Jl. Gatot Subroto No. 86 Yogyakarta,08168584167,dewi.kusuma@email.com,Perempuan,Pengacara
+1100,Dewi Saputra,1991-10-18,Jl. Diponegoro No. 77 Surabaya,08254452107,dewi.saputra@email.com,Perempuan,Pegawai Negeri
+1101,Siti Hidayat,1995-01-12,Jl. Gatot Subroto No. 69 Semarang,08845170160,siti.hidayat@email.com,Laki-laki,Insinyur
+1102,Ani Wijaya,1976-10-29,Jl. Sudirman No. 25 Jakarta,08168065914,ani.wijaya@email.com,Laki-laki,Wiraswasta
+1103,Rudi Hidayat,1983-05-04,Jl. Diponegoro No. 1 Bandung,08706653077,rudi.hidayat@email.com,Laki-laki,Akuntan
+1104,Dewi Wijaya,1981-05-12,Jl. Sudirman No. 7 Yogyakarta,08592833358,dewi.wijaya@email.com,Laki-laki,Insinyur
+1105,Rudi Santoso,1990-12-06,Jl. Pahlawan No. 80 Yogyakarta,08715170448,rudi.santoso@email.com,Laki-laki,Insinyur
+1106,Rina Hidayat,1995-04-23,Jl. Merdeka No. 56 Semarang,08546404632,rina.hidayat@email.com,Laki-laki,Insinyur
+1107,Rudi Hidayat,1986-01-10,Jl. Merdeka No. 41 Bandung,08356371378,rudi.hidayat@email.com,Perempuan,Akuntan
+1108,Rudi Santoso,1992-10-02,Jl. Diponegoro No. 19 Semarang,08396360922,rudi.santoso@email.com,Laki-laki,Akuntan
+1109,Joko Wijaya,1975-10-29,Jl. Diponegoro No. 32 Bandung,08265675506,joko.wijaya@email.com,Perempuan,Pengacara
+1110,Rina Santoso,1970-09-08,Jl. Sudirman No. 7 Semarang,08501238859,rina.santoso@email.com,Laki-laki,Insinyur
+1111,Rina Wijaya,1985-11-03,Jl. Sudirman No. 14 Yogyakarta,08935679597,rina.wijaya@email.com,Perempuan,Pegawai Negeri
+1112,Ani Hidayat,1995-05-08,Jl. Pahlawan No. 85 Yogyakarta,08508206719,ani.hidayat@email.com,Laki-laki,Insinyur
+1113,Siti Saputra,1993-10-25,Jl. Merdeka No. 66 Semarang,08844428379,siti.saputra@email.com,Laki-laki,Karyawan Swasta
+1114,Siti Kusuma,1971-01-05,Jl. Diponegoro No. 55 Jakarta,08269910401,siti.kusuma@email.com,Perempuan,Guru
+1115,Siti Saputra,1973-05-27,Jl. Pahlawan No. 86 Semarang,08878503514,siti.saputra@email.com,Laki-laki,Akuntan
+1116,Siti Wijaya,1982-05-07,Jl. Sudirman No. 45 Surabaya,08604309496,siti.wijaya@email.com,Perempuan,Karyawan Swasta
+1117,Ahmad Nurhayati,1979-06-11,Jl. Diponegoro No. 84 Bandung,08719742188,ahmad.nurhayati@email.com,Laki-laki,Insinyur
+1118,Siti Hidayat,1970-07-24,Jl. Gatot Subroto No. 6 Semarang,08428694595,siti.hidayat@email.com,Laki-laki,Pegawai Negeri
+1119,Dewi Saputra,1993-07-09,Jl. Merdeka No. 20 Yogyakarta,08757698203,dewi.saputra@email.com,Laki-laki,Pengacara
+1120,Budi Lestari,1978-04-19,Jl. Merdeka No. 78 Jakarta,08673727387,budi.lestari@email.com,Perempuan,Dokter
+1121,Budi Santoso,1996-11-26,Jl. Merdeka No. 4 Bandung,08498056080,budi.santoso@email.com,Perempuan,Pegawai Negeri
+1122,Dewi Kusuma,1984-06-13,Jl. Pahlawan No. 64 Bandung,08127205745,dewi.kusuma@email.com,Perempuan,Pegawai Negeri
+1123,Dewi Hidayat,1989-07-07,Jl. Diponegoro No. 22 Semarang,08161145015,dewi.hidayat@email.com,Laki-laki,Wiraswasta
+1124,Joko Nurhayati,1987-07-02,Jl. Gatot Subroto No. 39 Yogyakarta,08032333151,joko.nurhayati@email.com,Laki-laki,Wiraswasta
+1125,Siti Saputra,1980-09-10,Jl. Merdeka No. 89 Yogyakarta,08808216606,siti.saputra@email.com,Perempuan,Insinyur
+1126,Joko Santoso,1977-11-14,Jl. Pahlawan No. 69 Yogyakarta,08789355016,joko.santoso@email.com,Laki-laki,Insinyur
+1127,Budi Kusuma,1993-03-14,Jl. Merdeka No. 2 Bandung,08193330105,budi.kusuma@email.com,Perempuan,Pegawai Negeri
+1128,Rudi Hidayat,1981-07-04,Jl. Merdeka No. 93 Semarang,08486045983,rudi.hidayat@email.com,Perempuan,Pegawai Negeri
+1129,Joko Lestari,1998-10-04,Jl. Merdeka No. 40 Yogyakarta,08529565207,joko.lestari@email.com,Laki-laki,Pegawai Negeri
+1130,Budi Lestari,1998-05-15,Jl. Gatot Subroto No. 64 Yogyakarta,08639376446,budi.lestari@email.com,Perempuan,Insinyur
+1131,Ani Saputra,1984-09-04,Jl. Sudirman No. 70 Jakarta,08467084850,ani.saputra@email.com,Perempuan,Guru
+1132,Dewi Lestari,1999-01-23,Jl. Gatot Subroto No. 95 Yogyakarta,08460755892,dewi.lestari@email.com,Perempuan,Pengacara
+1133,Siti Hidayat,1999-01-22,Jl. Pahlawan No. 71 Bandung,08800503611,siti.hidayat@email.com,Perempuan,Guru
+1134,Joko Santoso,1999-04-05,Jl. Merdeka No. 79 Bandung,08888972766,joko.santoso@email.com,Laki-laki,Akuntan
+1135,Dewi Lestari,1981-05-23,Jl. Merdeka No. 56 Surabaya,08757892893,dewi.lestari@email.com,Laki-laki,Karyawan Swasta
+1136,Joko Saputra,1976-09-20,Jl. Sudirman No. 51 Bandung,08730599378,joko.saputra@email.com,Perempuan,Pengacara
+1137,Ahmad Santoso,1977-08-22,Jl. Sudirman No. 66 Bandung,08032409766,ahmad.santoso@email.com,Laki-laki,Akuntan
+1138,Joko Saputra,1988-04-21,Jl. Sudirman No. 50 Semarang,08124579916,joko.saputra@email.com,Perempuan,Insinyur
+1139,Siti Nurhayati,1992-06-11,Jl. Gatot Subroto No. 46 Jakarta,08069172005,siti.nurhayati@email.com,Laki-laki,Pengacara
+1140,Budi Saputra,1982-05-14,Jl. Merdeka No. 31 Semarang,08188030467,budi.saputra@email.com,Laki-laki,Insinyur
+1141,Joko Nurhayati,1984-01-19,Jl. Pahlawan No. 51 Surabaya,08855387745,joko.nurhayati@email.com,Perempuan,Wiraswasta
+1142,Ahmad Hidayat,1979-07-07,Jl. Gatot Subroto No. 30 Surabaya,08889329631,ahmad.hidayat@email.com,Laki-laki,Insinyur
+1143,Dewi Wijaya,1977-09-01,Jl. Sudirman No. 83 Semarang,08171009713,dewi.wijaya@email.com,Laki-laki,Karyawan Swasta
+1144,Joko Lestari,1989-10-13,Jl. Merdeka No. 77 Jakarta,08924410777,joko.lestari@email.com,Perempuan,Akuntan
+1145,Rina Santoso,1990-12-13,Jl. Merdeka No. 47 Semarang,08488242790,rina.santoso@email.com,Perempuan,Pegawai Negeri
+1146,Ani Wijaya,1986-05-02,Jl. Pahlawan No. 44 Yogyakarta,08170409635,ani.wijaya@email.com,Perempuan,Wiraswasta
+1147,Joko Lestari,1972-06-14,Jl. Merdeka No. 17 Semarang,08333354083,joko.lestari@email.com,Perempuan,Karyawan Swasta
+1148,Rudi Kusuma,1994-03-01,Jl. Merdeka No. 31 Jakarta,08619126142,rudi.kusuma@email.com,Perempuan,Akuntan
+1149,Dewi Nurhayati,1986-08-13,Jl. Diponegoro No. 86 Semarang,08835540569,dewi.nurhayati@email.com,Laki-laki,Pegawai Negeri
+1150,Budi Santoso,1982-11-20,Jl. Sudirman No. 38 Semarang,08456548848,budi.santoso@email.com,Laki-laki,Wiraswasta
+1151,Ahmad Kusuma,1995-08-19,Jl. Diponegoro No. 55 Semarang,08122776023,ahmad.kusuma@email.com,Perempuan,Pegawai Negeri
+1152,Joko Santoso,1985-04-05,Jl. Pahlawan No. 42 Semarang,08271209780,joko.santoso@email.com,Laki-laki,Insinyur
+1153,Siti Wijaya,1971-09-22,Jl. Gatot Subroto No. 20 Semarang,08069250686,siti.wijaya@email.com,Laki-laki,Pegawai Negeri
+1154,Rudi Lestari,1997-12-13,Jl. Gatot Subroto No. 75 Surabaya,08529428361,rudi.lestari@email.com,Laki-laki,Pegawai Negeri
+1155,Rina Nurhayati,1994-06-29,Jl. Merdeka No. 21 Bandung,08637903307,rina.nurhayati@email.com,Perempuan,Insinyur
+1156,Rudi Nurhayati,1994-03-03,Jl. Diponegoro No. 57 Semarang,08619654994,rudi.nurhayati@email.com,Laki-laki,Karyawan Swasta
+1157,Ahmad Santoso,1989-05-30,Jl. Sudirman No. 35 Jakarta,08747811344,ahmad.santoso@email.com,Perempuan,Wiraswasta
+1158,Ahmad Lestari,1991-08-08,Jl. Merdeka No. 72 Semarang,08469760790,ahmad.lestari@email.com,Perempuan,Pegawai Negeri
+1159,Rina Nurhayati,1978-03-29,Jl. Diponegoro No. 51 Surabaya,08491607313,rina.nurhayati@email.com,Laki-laki,Pengacara
+1160,Ani Saputra,1970-10-25,Jl. Merdeka No. 36 Bandung,08477111649,ani.saputra@email.com,Laki-laki,Insinyur
+1161,Budi Lestari,1992-05-19,Jl. Diponegoro No. 42 Jakarta,08199167684,budi.lestari@email.com,Laki-laki,Pengacara
+1162,Ahmad Nurhayati,1993-02-19,Jl. Diponegoro No. 16 Semarang,08285156488,ahmad.nurhayati@email.com,Laki-laki,Pengacara
+1163,Rudi Lestari,1982-03-17,Jl. Gatot Subroto No. 85 Semarang,08552297408,rudi.lestari@email.com,Perempuan,Guru
+1164,Rina Kusuma,1988-12-02,Jl. Gatot Subroto No. 19 Bandung,08279489402,rina.kusuma@email.com,Laki-laki,Pengacara
+1165,Siti Wijaya,1993-01-10,Jl. Sudirman No. 35 Semarang,08723276281,siti.wijaya@email.com,Laki-laki,Pegawai Negeri
+1166,Dewi Wijaya,1991-07-17,Jl. Diponegoro No. 65 Surabaya,08336599109,dewi.wijaya@email.com,Perempuan,Pegawai Negeri
+1167,Ahmad Saputra,1971-09-01,Jl. Gatot Subroto No. 44 Semarang,08205201770,ahmad.saputra@email.com,Laki-laki,Pengacara
+1168,Siti Santoso,1990-12-09,Jl. Diponegoro No. 40 Surabaya,08445181832,siti.santoso@email.com,Perempuan,Pegawai Negeri
+1169,Dewi Wijaya,1986-04-29,Jl. Merdeka No. 80 Bandung,08936001605,dewi.wijaya@email.com,Perempuan,Insinyur
+1170,Dewi Lestari,1998-09-17,Jl. Pahlawan No. 97 Surabaya,08463239506,dewi.lestari@email.com,Perempuan,Insinyur
+1171,Rudi Saputra,1986-04-19,Jl. Merdeka No. 24 Yogyakarta,08740673486,rudi.saputra@email.com,Laki-laki,Pegawai Negeri
+1172,Joko Santoso,1991-10-23,Jl. Gatot Subroto No. 75 Surabaya,08283631046,joko.santoso@email.com,Perempuan,Guru
+1173,Rudi Santoso,1999-06-21,Jl. Diponegoro No. 94 Jakarta,08268045476,rudi.santoso@email.com,Laki-laki,Insinyur
+1174,Rudi Saputra,1991-11-16,Jl. Gatot Subroto No. 50 Surabaya,08216208985,rudi.saputra@email.com,Perempuan,Insinyur
+1175,Rudi Wijaya,1980-02-22,Jl. Diponegoro No. 14 Semarang,08497591617,rudi.wijaya@email.com,Laki-laki,Insinyur
+1176,Siti Nurhayati,1992-10-24,Jl. Sudirman No. 76 Surabaya,08913011003,siti.nurhayati@email.com,Laki-laki,Dokter
+1177,Budi Kusuma,1974-06-27,Jl. Pahlawan No. 50 Bandung,08478441182,budi.kusuma@email.com,Laki-laki,Insinyur
+1178,Dewi Nurhayati,1985-02-24,Jl. Merdeka No. 31 Surabaya,08154661900,dewi.nurhayati@email.com,Perempuan,Wiraswasta
+1179,Ani Wijaya,1981-06-24,Jl. Merdeka No. 58 Jakarta,08088534427,ani.wijaya@email.com,Laki-laki,Karyawan Swasta
+1180,Ahmad Lestari,2000-11-13,Jl. Sudirman No. 83 Jakarta,08537629333,ahmad.lestari@email.com,Perempuan,Guru
+1181,Ani Nurhayati,1975-10-17,Jl. Gatot Subroto No. 62 Yogyakarta,08874253876,ani.nurhayati@email.com,Laki-laki,Akuntan
+1182,Joko Wijaya,1973-07-06,Jl. Gatot Subroto No. 96 Semarang,08496428393,joko.wijaya@email.com,Perempuan,Pegawai Negeri
+1183,Rudi Nurhayati,1990-12-10,Jl. Pahlawan No. 66 Surabaya,08469416850,rudi.nurhayati@email.com,Perempuan,Karyawan Swasta
+1184,Siti Saputra,1999-07-01,Jl. Gatot Subroto No. 56 Semarang,08309096068,siti.saputra@email.com,Laki-laki,Wiraswasta
+1185,Ani Hidayat,1971-04-15,Jl. Gatot Subroto No. 77 Yogyakarta,08780539887,ani.hidayat@email.com,Laki-laki,Pengacara
+1186,Ani Nurhayati,1988-10-06,Jl. Diponegoro No. 35 Bandung,08713102637,ani.nurhayati@email.com,Laki-laki,Karyawan Swasta
+1187,Budi Nurhayati,1980-04-09,Jl. Merdeka No. 90 Yogyakarta,08387274776,budi.nurhayati@email.com,Perempuan,Guru
+1188,Rina Nurhayati,1977-04-20,Jl. Merdeka No. 91 Surabaya,08893570431,rina.nurhayati@email.com,Perempuan,Pengacara
+1189,Siti Santoso,1984-06-28,Jl. Sudirman No. 96 Semarang,08183702224,siti.santoso@email.com,Laki-laki,Wiraswasta
+1190,Rina Santoso,1992-01-18,Jl. Sudirman No. 83 Bandung,08012804075,rina.santoso@email.com,Laki-laki,Akuntan
+1191,Budi Hidayat,1988-07-22,Jl. Diponegoro No. 52 Yogyakarta,08080421175,budi.hidayat@email.com,Laki-laki,Wiraswasta
+1192,Siti Saputra,2000-06-18,Jl. Pahlawan No. 30 Jakarta,08930350707,siti.saputra@email.com,Laki-laki,Guru
+1193,Dewi Kusuma,1999-08-27,Jl. Diponegoro No. 68 Semarang,08592181921,dewi.kusuma@email.com,Laki-laki,Wiraswasta
+1194,Rina Wijaya,1991-01-29,Jl. Diponegoro No. 78 Bandung,08966350186,rina.wijaya@email.com,Laki-laki,Guru
+1195,Ahmad Saputra,1978-11-19,Jl. Gatot Subroto No. 61 Semarang,08919345710,ahmad.saputra@email.com,Laki-laki,Guru
+1196,Joko Saputra,1973-12-23,Jl. Pahlawan No. 77 Surabaya,08123319065,joko.saputra@email.com,Perempuan,Pengacara
+1197,Rina Wijaya,1995-03-13,Jl. Sudirman No. 82 Semarang,08770624529,rina.wijaya@email.com,Perempuan,Akuntan
+1198,Joko Santoso,2000-04-14,Jl. Diponegoro No. 85 Bandung,08046244200,joko.santoso@email.com,Laki-laki,Dokter
+1199,Dewi Wijaya,1988-05-30,Jl. Merdeka No. 27 Bandung,08959451232,dewi.wijaya@email.com,Laki-laki,Dokter
+1200,Ani Lestari,1992-09-22,Jl. Merdeka No. 50 Semarang,08198865817,ani.lestari@email.com,Laki-laki,Wiraswasta
+1201,Siti Kusuma,1997-03-26,Jl. Diponegoro No. 51 Semarang,08830145784,siti.kusuma@email.com,Perempuan,Wiraswasta
+1202,Ani Kusuma,1974-05-08,Jl. Gatot Subroto No. 30 Bandung,08605069365,ani.kusuma@email.com,Laki-laki,Akuntan
+1203,Ahmad Wijaya,1977-06-05,Jl. Merdeka No. 86 Semarang,08270394817,ahmad.wijaya@email.com,Perempuan,Pengacara
+1204,Rina Lestari,1983-11-13,Jl. Merdeka No. 24 Semarang,08888800662,rina.lestari@email.com,Laki-laki,Wiraswasta
+1205,Ani Wijaya,1970-10-07,Jl. Sudirman No. 15 Yogyakarta,08935153480,ani.wijaya@email.com,Perempuan,Akuntan
+1206,Ani Kusuma,1984-10-11,Jl. Gatot Subroto No. 84 Semarang,08130153935,ani.kusuma@email.com,Perempuan,Guru
+1207,Joko Saputra,1974-09-03,Jl. Pahlawan No. 60 Surabaya,08721413864,joko.saputra@email.com,Laki-laki,Guru
+1208,Ahmad Hidayat,1990-12-21,Jl. Pahlawan No. 42 Yogyakarta,08024634581,ahmad.hidayat@email.com,Perempuan,Insinyur
+1209,Dewi Nurhayati,1993-04-30,Jl. Sudirman No. 47 Yogyakarta,08641164018,dewi.nurhayati@email.com,Laki-laki,Guru
+1210,Budi Kusuma,1991-01-13,Jl. Sudirman No. 7 Yogyakarta,08803459771,budi.kusuma@email.com,Perempuan,Wiraswasta
+1211,Joko Hidayat,1976-11-12,Jl. Pahlawan No. 2 Bandung,08867172572,joko.hidayat@email.com,Laki-laki,Insinyur
+1212,Ahmad Hidayat,1972-03-15,Jl. Pahlawan No. 20 Bandung,08037612860,ahmad.hidayat@email.com,Laki-laki,Insinyur
+1213,Budi Nurhayati,1972-08-04,Jl. Merdeka No. 8 Yogyakarta,08686930293,budi.nurhayati@email.com,Laki-laki,Guru
+1214,Joko Kusuma,1979-02-18,Jl. Pahlawan No. 63 Semarang,08325421616,joko.kusuma@email.com,Perempuan,Pengacara
+1215,Rina Lestari,1985-04-07,Jl. Pahlawan No. 69 Surabaya,08537099756,rina.lestari@email.com,Laki-laki,Pegawai Negeri
+1216,Ahmad Hidayat,1978-09-14,Jl. Pahlawan No. 83 Semarang,08764641581,ahmad.hidayat@email.com,Perempuan,Pegawai Negeri
+1217,Joko Nurhayati,1980-06-06,Jl. Pahlawan No. 14 Jakarta,08575066728,joko.nurhayati@email.com,Laki-laki,Akuntan
+1218,Rina Hidayat,1990-11-26,Jl. Diponegoro No. 63 Semarang,08020147496,rina.hidayat@email.com,Laki-laki,Pegawai Negeri
+1219,Ani Hidayat,1970-01-17,Jl. Diponegoro No. 95 Yogyakarta,08344218000,ani.hidayat@email.com,Perempuan,Pengacara
+1220,Rudi Nurhayati,1989-08-28,Jl. Diponegoro No. 44 Bandung,08530918918,rudi.nurhayati@email.com,Laki-laki,Karyawan Swasta
+1221,Joko Nurhayati,1995-04-14,Jl. Diponegoro No. 75 Surabaya,08719625877,joko.nurhayati@email.com,Laki-laki,Guru
+1222,Siti Kusuma,1978-01-05,Jl. Gatot Subroto No. 58 Jakarta,08025026901,siti.kusuma@email.com,Laki-laki,Pengacara
+1223,Rina Lestari,1972-03-25,Jl. Gatot Subroto No. 20 Semarang,08109080979,rina.lestari@email.com,Laki-laki,Dokter
+1224,Ahmad Lestari,1985-03-09,Jl. Diponegoro No. 4 Semarang,08917546316,ahmad.lestari@email.com,Perempuan,Karyawan Swasta
+1225,Dewi Nurhayati,1973-01-08,Jl. Pahlawan No. 52 Bandung,08301752585,dewi.nurhayati@email.com,Laki-laki,Pegawai Negeri
+1226,Dewi Lestari,1991-01-24,Jl. Gatot Subroto No. 8 Jakarta,08779871135,dewi.lestari@email.com,Perempuan,Guru
+1227,Rina Lestari,1995-09-13,Jl. Sudirman No. 87 Yogyakarta,08055025329,rina.lestari@email.com,Perempuan,Pengacara
+1228,Budi Lestari,1982-08-24,Jl. Sudirman No. 2 Bandung,08043739753,budi.lestari@email.com,Perempuan,Pegawai Negeri
+1229,Joko Nurhayati,1974-08-23,Jl. Sudirman No. 37 Surabaya,08476648630,joko.nurhayati@email.com,Laki-laki,Pengacara
+1230,Rudi Lestari,1973-09-05,Jl. Pahlawan No. 2 Bandung,08911760454,rudi.lestari@email.com,Laki-laki,Akuntan
+1231,Ani Lestari,1998-02-16,Jl. Merdeka No. 66 Yogyakarta,08438896117,ani.lestari@email.com,Laki-laki,Dokter
+1232,Rudi Wijaya,1981-06-12,Jl. Diponegoro No. 46 Surabaya,08018232173,rudi.wijaya@email.com,Laki-laki,Guru
+1233,Rudi Saputra,1994-09-28,Jl. Gatot Subroto No. 97 Surabaya,08000874165,rudi.saputra@email.com,Laki-laki,Wiraswasta
+1234,Dewi Saputra,1997-04-19,Jl. Diponegoro No. 36 Bandung,08450293150,dewi.saputra@email.com,Perempuan,Pengacara
+1235,Ani Saputra,1979-07-22,Jl. Sudirman No. 99 Jakarta,08138721510,ani.saputra@email.com,Perempuan,Pengacara
+1236,Budi Lestari,1996-03-25,Jl. Gatot Subroto No. 11 Yogyakarta,08754580505,budi.lestari@email.com,Perempuan,Karyawan Swasta
+1237,Rina Santoso,1978-01-21,Jl. Sudirman No. 87 Yogyakarta,08703709772,rina.santoso@email.com,Perempuan,Insinyur
+1238,Ani Kusuma,1979-10-31,Jl. Gatot Subroto No. 88 Surabaya,08243009122,ani.kusuma@email.com,Perempuan,Karyawan Swasta
+1239,Budi Lestari,1999-11-06,Jl. Sudirman No. 15 Yogyakarta,08722251498,budi.lestari@email.com,Perempuan,Pegawai Negeri
+1240,Ani Lestari,2000-01-24,Jl. Pahlawan No. 65 Yogyakarta,08689694806,ani.lestari@email.com,Laki-laki,Guru
+1241,Budi Nurhayati,1988-07-08,Jl. Sudirman No. 97 Surabaya,08130054240,budi.nurhayati@email.com,Perempuan,Pegawai Negeri
+1242,Ahmad Santoso,1971-01-20,Jl. Merdeka No. 96 Bandung,08930281522,ahmad.santoso@email.com,Laki-laki,Wiraswasta
+1243,Budi Hidayat,1983-11-04,Jl. Diponegoro No. 77 Bandung,08650288414,budi.hidayat@email.com,Perempuan,Dokter
+1244,Rudi Kusuma,1974-08-31,Jl. Gatot Subroto No. 50 Jakarta,08401772285,rudi.kusuma@email.com,Perempuan,Wiraswasta
+1245,Ahmad Kusuma,1987-03-11,Jl. Diponegoro No. 27 Surabaya,08228349088,ahmad.kusuma@email.com,Perempuan,Dokter
+1246,Rudi Wijaya,1991-11-21,Jl. Merdeka No. 66 Yogyakarta,08199135362,rudi.wijaya@email.com,Perempuan,Dokter
+1247,Rina Hidayat,1998-04-20,Jl. Pahlawan No. 57 Bandung,08236810503,rina.hidayat@email.com,Laki-laki,Akuntan
+1248,Budi Hidayat,1977-07-30,Jl. Sudirman No. 45 Yogyakarta,08460751372,budi.hidayat@email.com,Perempuan,Karyawan Swasta
+1249,Dewi Kusuma,1985-10-09,Jl. Diponegoro No. 42 Surabaya,08576172517,dewi.kusuma@email.com,Laki-laki,Pengacara
+1250,Siti Hidayat,1973-11-27,Jl. Diponegoro No. 45 Bandung,08559920931,siti.hidayat@email.com,Perempuan,Pegawai Negeri
+1251,Dewi Lestari,1994-08-07,Jl. Sudirman No. 93 Bandung,08861067090,dewi.lestari@email.com,Perempuan,Pegawai Negeri
+1252,Ahmad Kusuma,1996-01-12,Jl. Merdeka No. 28 Yogyakarta,08609758378,ahmad.kusuma@email.com,Perempuan,Akuntan
+1253,Rudi Lestari,1978-01-15,Jl. Gatot Subroto No. 80 Jakarta,08307796170,rudi.lestari@email.com,Laki-laki,Dokter
+1254,Budi Nurhayati,1991-08-26,Jl. Pahlawan No. 45 Jakarta,08007153698,budi.nurhayati@email.com,Perempuan,Wiraswasta
+1255,Joko Wijaya,1973-01-05,Jl. Sudirman No. 74 Surabaya,08429932462,joko.wijaya@email.com,Perempuan,Pengacara
+1256,Siti Kusuma,1999-09-08,Jl. Gatot Subroto No. 62 Bandung,08662625166,siti.kusuma@email.com,Laki-laki,Pegawai Negeri
+1257,Siti Kusuma,1971-06-23,Jl. Diponegoro No. 85 Surabaya,08135040277,siti.kusuma@email.com,Laki-laki,Insinyur
+1258,Ahmad Hidayat,1998-06-07,Jl. Merdeka No. 19 Yogyakarta,08605633820,ahmad.hidayat@email.com,Laki-laki,Insinyur
+1259,Dewi Wijaya,1984-01-26,Jl. Diponegoro No. 95 Jakarta,08359844350,dewi.wijaya@email.com,Perempuan,Wiraswasta
+1260,Budi Santoso,1995-08-24,Jl. Gatot Subroto No. 3 Surabaya,08929056710,budi.santoso@email.com,Laki-laki,Guru
+1261,Dewi Kusuma,1971-09-04,Jl. Diponegoro No. 17 Semarang,08654006954,dewi.kusuma@email.com,Perempuan,Wiraswasta
+1262,Rudi Hidayat,1997-03-13,Jl. Gatot Subroto No. 40 Surabaya,08368392731,rudi.hidayat@email.com,Perempuan,Pegawai Negeri
+1263,Ani Hidayat,1978-05-16,Jl. Diponegoro No. 54 Surabaya,08555978084,ani.hidayat@email.com,Perempuan,Karyawan Swasta
+1264,Rudi Nurhayati,1981-05-23,Jl. Merdeka No. 36 Yogyakarta,08494539876,rudi.nurhayati@email.com,Laki-laki,Wiraswasta
+1265,Ahmad Kusuma,1972-09-29,Jl. Gatot Subroto No. 45 Yogyakarta,08377169686,ahmad.kusuma@email.com,Perempuan,Wiraswasta
+1266,Dewi Lestari,1995-08-28,Jl. Pahlawan No. 40 Surabaya,08002757740,dewi.lestari@email.com,Laki-laki,Pengacara
+1267,Ahmad Hidayat,1980-12-14,Jl. Diponegoro No. 3 Jakarta,08154027704,ahmad.hidayat@email.com,Perempuan,Pegawai Negeri
+1268,Joko Kusuma,1970-09-03,Jl. Sudirman No. 96 Surabaya,08306400314,joko.kusuma@email.com,Laki-laki,Dokter
+1269,Budi Santoso,1996-10-14,Jl. Gatot Subroto No. 87 Yogyakarta,08798611532,budi.santoso@email.com,Perempuan,Karyawan Swasta
+1270,Rudi Saputra,1988-04-19,Jl. Sudirman No. 48 Surabaya,08594194770,rudi.saputra@email.com,Perempuan,Wiraswasta
+1271,Dewi Wijaya,1998-11-23,Jl. Diponegoro No. 72 Yogyakarta,08430333983,dewi.wijaya@email.com,Perempuan,Akuntan
+1272,Rudi Wijaya,1989-12-10,Jl. Merdeka No. 22 Jakarta,08744185413,rudi.wijaya@email.com,Laki-laki,Guru
+1273,Joko Hidayat,1970-09-30,Jl. Pahlawan No. 5 Surabaya,08809544939,joko.hidayat@email.com,Perempuan,Insinyur
+1274,Ahmad Kusuma,1991-09-10,Jl. Pahlawan No. 22 Surabaya,08205857951,ahmad.kusuma@email.com,Laki-laki,Akuntan
+1275,Ani Santoso,1971-08-23,Jl. Merdeka No. 34 Surabaya,08303305072,ani.santoso@email.com,Laki-laki,Akuntan
+1276,Budi Lestari,1995-12-19,Jl. Diponegoro No. 76 Bandung,08177484551,budi.lestari@email.com,Perempuan,Dokter
+1277,Rina Wijaya,1978-06-27,Jl. Diponegoro No. 71 Surabaya,08779160685,rina.wijaya@email.com,Perempuan,Wiraswasta
+1278,Ahmad Hidayat,1974-11-07,Jl. Gatot Subroto No. 36 Semarang,08651676153,ahmad.hidayat@email.com,Perempuan,Insinyur
+1279,Siti Lestari,1987-07-08,Jl. Gatot Subroto No. 98 Semarang,08331930021,siti.lestari@email.com,Perempuan,Pegawai Negeri
+1280,Ahmad Santoso,1972-02-19,Jl. Merdeka No. 5 Semarang,08981454655,ahmad.santoso@email.com,Laki-laki,Pengacara
+1281,Rudi Lestari,1976-01-02,Jl. Pahlawan No. 51 Surabaya,08952241198,rudi.lestari@email.com,Perempuan,Pengacara
+1282,Ani Santoso,1990-02-19,Jl. Sudirman No. 83 Jakarta,08541849364,ani.santoso@email.com,Perempuan,Insinyur
+1283,Joko Kusuma,1972-03-05,Jl. Pahlawan No. 75 Bandung,08645145830,joko.kusuma@email.com,Perempuan,Wiraswasta
+1284,Rina Saputra,1993-07-31,Jl. Diponegoro No. 84 Yogyakarta,08975271127,rina.saputra@email.com,Laki-laki,Akuntan
+1285,Rina Wijaya,1977-02-01,Jl. Gatot Subroto No. 78 Surabaya,08190593656,rina.wijaya@email.com,Laki-laki,Karyawan Swasta
+1286,Siti Kusuma,1996-09-12,Jl. Sudirman No. 9 Semarang,08540859429,siti.kusuma@email.com,Perempuan,Guru
+1287,Budi Lestari,1993-09-22,Jl. Pahlawan No. 60 Yogyakarta,08886892305,budi.lestari@email.com,Perempuan,Dokter
+1288,Ahmad Lestari,1974-10-02,Jl. Gatot Subroto No. 32 Jakarta,08280522761,ahmad.lestari@email.com,Perempuan,Insinyur
+1289,Siti Hidayat,1971-08-27,Jl. Pahlawan No. 37 Bandung,08729253761,siti.hidayat@email.com,Laki-laki,Insinyur
+1290,Siti Hidayat,1976-03-20,Jl. Merdeka No. 38 Yogyakarta,08099998181,siti.hidayat@email.com,Laki-laki,Wiraswasta
+1291,Ani Hidayat,1990-08-25,Jl. Gatot Subroto No. 88 Yogyakarta,08401572591,ani.hidayat@email.com,Perempuan,Insinyur
+1292,Rina Saputra,1972-08-10,Jl. Merdeka No. 87 Yogyakarta,08495252106,rina.saputra@email.com,Laki-laki,Pegawai Negeri
+1293,Budi Kusuma,1972-10-21,Jl. Gatot Subroto No. 51 Jakarta,08785513912,budi.kusuma@email.com,Laki-laki,Pegawai Negeri
+1294,Budi Kusuma,1979-12-17,Jl. Merdeka No. 21 Semarang,08467930774,budi.kusuma@email.com,Perempuan,Wiraswasta
+1295,Dewi Wijaya,1996-01-13,Jl. Pahlawan No. 46 Jakarta,08079312234,dewi.wijaya@email.com,Laki-laki,Karyawan Swasta
+1296,Rudi Santoso,1995-08-03,Jl. Merdeka No. 76 Yogyakarta,08728532975,rudi.santoso@email.com,Perempuan,Guru
+1297,Joko Kusuma,1997-05-20,Jl. Gatot Subroto No. 92 Jakarta,08507697167,joko.kusuma@email.com,Perempuan,Pegawai Negeri
+1298,Ani Saputra,1989-08-12,Jl. Sudirman No. 28 Jakarta,08619895489,ani.saputra@email.com,Perempuan,Guru
+1299,Budi Hidayat,1973-05-31,Jl. Gatot Subroto No. 61 Bandung,08851459888,budi.hidayat@email.com,Perempuan,Akuntan
+1300,Ahmad Nurhayati,1975-08-01,Jl. Pahlawan No. 21 Yogyakarta,08984599341,ahmad.nurhayati@email.com,Laki-laki,Pegawai Negeri
+1301,Joko Nurhayati,1982-12-26,Jl. Merdeka No. 96 Semarang,08080232749,joko.nurhayati@email.com,Laki-laki,Insinyur
+1302,Budi Nurhayati,1996-12-12,Jl. Pahlawan No. 84 Bandung,08664087538,budi.nurhayati@email.com,Laki-laki,Wiraswasta
+1303,Ani Saputra,1989-08-01,Jl. Pahlawan No. 38 Bandung,08218358856,ani.saputra@email.com,Perempuan,Pegawai Negeri
+1304,Dewi Hidayat,1985-05-19,Jl. Merdeka No. 76 Semarang,08181209094,dewi.hidayat@email.com,Perempuan,Insinyur
+1305,Rina Nurhayati,1987-09-07,Jl. Diponegoro No. 91 Surabaya,08275380884,rina.nurhayati@email.com,Perempuan,Dokter
+1306,Dewi Kusuma,1974-07-31,Jl. Diponegoro No. 89 Semarang,08967909606,dewi.kusuma@email.com,Perempuan,Guru
+1307,Rudi Kusuma,1990-05-18,Jl. Merdeka No. 54 Surabaya,08029121316,rudi.kusuma@email.com,Perempuan,Akuntan
+1308,Rina Saputra,1976-06-06,Jl. Sudirman No. 46 Semarang,08317310059,rina.saputra@email.com,Perempuan,Pegawai Negeri
+1309,Dewi Saputra,1974-11-09,Jl. Sudirman No. 64 Bandung,08582706532,dewi.saputra@email.com,Laki-laki,Pegawai Negeri
+1310,Siti Lestari,1974-02-27,Jl. Gatot Subroto No. 82 Yogyakarta,08587630533,siti.lestari@email.com,Laki-laki,Dokter
+1311,Ahmad Saputra,1970-08-17,Jl. Pahlawan No. 17 Jakarta,08855495647,ahmad.saputra@email.com,Perempuan,Guru
+1312,Joko Kusuma,1998-09-07,Jl. Pahlawan No. 69 Yogyakarta,08096637743,joko.kusuma@email.com,Laki-laki,Guru
+1313,Rina Saputra,1971-02-07,Jl. Merdeka No. 28 Jakarta,08660755225,rina.saputra@email.com,Laki-laki,Karyawan Swasta
+1314,Dewi Hidayat,1990-04-18,Jl. Pahlawan No. 15 Surabaya,08677419662,dewi.hidayat@email.com,Perempuan,Wiraswasta
+1315,Rudi Lestari,1995-02-22,Jl. Sudirman No. 56 Yogyakarta,08680651539,rudi.lestari@email.com,Laki-laki,Pengacara
+1316,Rina Wijaya,1990-08-28,Jl. Pahlawan No. 83 Yogyakarta,08875275132,rina.wijaya@email.com,Perempuan,Guru
+1317,Budi Wijaya,1973-07-14,Jl. Pahlawan No. 26 Surabaya,08347759071,budi.wijaya@email.com,Laki-laki,Guru
+1318,Rina Kusuma,1986-01-12,Jl. Pahlawan No. 88 Bandung,08677317649,rina.kusuma@email.com,Laki-laki,Wiraswasta
+1319,Rina Wijaya,1998-08-09,Jl. Pahlawan No. 29 Surabaya,08268092586,rina.wijaya@email.com,Perempuan,Pegawai Negeri
+1320,Siti Kusuma,1980-11-09,Jl. Diponegoro No. 4 Semarang,08207928101,siti.kusuma@email.com,Laki-laki,Akuntan
+1321,Rudi Nurhayati,1973-09-18,Jl. Sudirman No. 36 Surabaya,08022771038,rudi.nurhayati@email.com,Perempuan,Guru
+1322,Rudi Nurhayati,1996-09-25,Jl. Diponegoro No. 12 Yogyakarta,08364129341,rudi.nurhayati@email.com,Laki-laki,Karyawan Swasta
+1323,Joko Wijaya,2000-04-16,Jl. Pahlawan No. 18 Yogyakarta,08366728213,joko.wijaya@email.com,Laki-laki,Pengacara
+1324,Ahmad Hidayat,1973-03-24,Jl. Sudirman No. 6 Yogyakarta,08288660172,ahmad.hidayat@email.com,Laki-laki,Guru
+1325,Rina Hidayat,1980-12-17,Jl. Diponegoro No. 74 Semarang,08430714428,rina.hidayat@email.com,Perempuan,Guru
+1326,Budi Lestari,1983-04-09,Jl. Merdeka No. 35 Semarang,08823001950,budi.lestari@email.com,Perempuan,Guru
+1327,Budi Kusuma,1995-09-24,Jl. Sudirman No. 87 Bandung,08310145729,budi.kusuma@email.com,Laki-laki,Insinyur
+1328,Rudi Nurhayati,1979-05-06,Jl. Sudirman No. 70 Jakarta,08338405174,rudi.nurhayati@email.com,Perempuan,Karyawan Swasta
+1329,Rina Nurhayati,1995-01-08,Jl. Merdeka No. 40 Bandung,08820553908,rina.nurhayati@email.com,Perempuan,Dokter
+1330,Dewi Santoso,1979-03-30,Jl. Pahlawan No. 82 Bandung,08415016005,dewi.santoso@email.com,Laki-laki,Karyawan Swasta
+1331,Dewi Nurhayati,1993-08-28,Jl. Sudirman No. 97 Yogyakarta,08489154216,dewi.nurhayati@email.com,Perempuan,Pengacara
+1332,Rudi Saputra,1998-08-14,Jl. Diponegoro No. 33 Surabaya,08916196511,rudi.saputra@email.com,Perempuan,Wiraswasta
+1333,Siti Santoso,1987-07-28,Jl. Merdeka No. 52 Jakarta,08594027414,siti.santoso@email.com,Laki-laki,Pengacara
+1334,Rina Saputra,1989-09-18,Jl. Merdeka No. 40 Semarang,08889827312,rina.saputra@email.com,Perempuan,Insinyur
+1335,Joko Saputra,1993-09-15,Jl. Diponegoro No. 100 Surabaya,08837152466,joko.saputra@email.com,Laki-laki,Guru
+1336,Rina Wijaya,1981-05-21,Jl. Diponegoro No. 95 Semarang,08276324475,rina.wijaya@email.com,Perempuan,Dokter
+1337,Rina Wijaya,1989-12-03,Jl. Pahlawan No. 12 Jakarta,08703225562,rina.wijaya@email.com,Laki-laki,Wiraswasta
+1338,Rudi Lestari,1993-10-11,Jl. Diponegoro No. 75 Jakarta,08989763235,rudi.lestari@email.com,Laki-laki,Insinyur
+1339,Budi Lestari,1973-09-24,Jl. Merdeka No. 4 Yogyakarta,08168618803,budi.lestari@email.com,Perempuan,Wiraswasta
+1340,Rina Saputra,1978-08-13,Jl. Diponegoro No. 73 Surabaya,08688251644,rina.saputra@email.com,Perempuan,Akuntan
+1341,Rudi Wijaya,1978-12-19,Jl. Diponegoro No. 32 Yogyakarta,08276593485,rudi.wijaya@email.com,Perempuan,Pengacara
+1342,Joko Nurhayati,1993-10-17,Jl. Merdeka No. 56 Jakarta,08480664982,joko.nurhayati@email.com,Perempuan,Pegawai Negeri
+1343,Joko Hidayat,1983-10-25,Jl. Diponegoro No. 46 Jakarta,08343970688,joko.hidayat@email.com,Perempuan,Pengacara
+1344,Rina Lestari,1999-11-17,Jl. Pahlawan No. 67 Surabaya,08600730662,rina.lestari@email.com,Laki-laki,Akuntan
+1345,Budi Santoso,1972-06-23,Jl. Pahlawan No. 85 Semarang,08990902525,budi.santoso@email.com,Laki-laki,Pegawai Negeri
+1346,Dewi Lestari,1979-03-20,Jl. Merdeka No. 83 Yogyakarta,08652949091,dewi.lestari@email.com,Laki-laki,Guru
+1347,Ani Wijaya,1987-01-08,Jl. Merdeka No. 75 Yogyakarta,08796187506,ani.wijaya@email.com,Laki-laki,Akuntan
+1348,Siti Santoso,1981-02-15,Jl. Diponegoro No. 81 Yogyakarta,08397694052,siti.santoso@email.com,Perempuan,Pegawai Negeri
+1349,Budi Saputra,1972-12-09,Jl. Diponegoro No. 34 Semarang,08950451217,budi.saputra@email.com,Laki-laki,Wiraswasta
+1350,Dewi Hidayat,1978-10-22,Jl. Sudirman No. 12 Semarang,08700733181,dewi.hidayat@email.com,Laki-laki,Dokter
+1351,Dewi Wijaya,1994-07-05,Jl. Diponegoro No. 10 Yogyakarta,08516942384,dewi.wijaya@email.com,Laki-laki,Dokter
+1352,Ahmad Wijaya,1985-12-15,Jl. Sudirman No. 37 Yogyakarta,08552094434,ahmad.wijaya@email.com,Laki-laki,Insinyur
+1353,Dewi Santoso,1987-08-17,Jl. Sudirman No. 55 Bandung,08388141093,dewi.santoso@email.com,Laki-laki,Dokter
+1354,Ani Saputra,1993-08-06,Jl. Sudirman No. 75 Yogyakarta,08149967059,ani.saputra@email.com,Laki-laki,Dokter
+1355,Siti Santoso,1985-09-25,Jl. Pahlawan No. 94 Semarang,08898978093,siti.santoso@email.com,Laki-laki,Pegawai Negeri
+1356,Rudi Kusuma,1973-06-12,Jl. Pahlawan No. 83 Bandung,08829858671,rudi.kusuma@email.com,Laki-laki,Wiraswasta
+1357,Rina Wijaya,1982-03-23,Jl. Gatot Subroto No. 37 Jakarta,08878025532,rina.wijaya@email.com,Perempuan,Dokter
+1358,Joko Nurhayati,1979-12-24,Jl. Merdeka No. 25 Surabaya,08987581832,joko.nurhayati@email.com,Laki-laki,Karyawan Swasta
+1359,Budi Wijaya,1986-06-24,Jl. Sudirman No. 50 Bandung,08239180423,budi.wijaya@email.com,Perempuan,Dokter
+1360,Ani Kusuma,1975-04-30,Jl. Merdeka No. 12 Semarang,08447663274,ani.kusuma@email.com,Laki-laki,Insinyur
+1361,Siti Santoso,1983-03-06,Jl. Merdeka No. 94 Semarang,08948774574,siti.santoso@email.com,Perempuan,Pegawai Negeri
+1362,Ani Hidayat,1991-04-11,Jl. Diponegoro No. 22 Jakarta,08287765056,ani.hidayat@email.com,Laki-laki,Pengacara
+1363,Budi Nurhayati,1982-09-23,Jl. Pahlawan No. 59 Bandung,08761216613,budi.nurhayati@email.com,Laki-laki,Wiraswasta
+1364,Ani Kusuma,1989-01-20,Jl. Merdeka No. 60 Bandung,08276938644,ani.kusuma@email.com,Perempuan,Karyawan Swasta
+1365,Budi Nurhayati,1993-07-09,Jl. Sudirman No. 85 Yogyakarta,08223332112,budi.nurhayati@email.com,Perempuan,Pegawai Negeri
+1366,Joko Santoso,1971-09-18,Jl. Merdeka No. 5 Bandung,08001955639,joko.santoso@email.com,Perempuan,Pengacara
+1367,Ani Santoso,1979-07-26,Jl. Diponegoro No. 97 Semarang,08343562820,ani.santoso@email.com,Perempuan,Wiraswasta
+1368,Joko Nurhayati,1972-08-30,Jl. Pahlawan No. 83 Bandung,08115933434,joko.nurhayati@email.com,Perempuan,Dokter
+1369,Rina Saputra,1995-01-13,Jl. Diponegoro No. 69 Yogyakarta,08575931722,rina.saputra@email.com,Perempuan,Akuntan
+1370,Budi Hidayat,1972-05-31,Jl. Pahlawan No. 69 Bandung,08009437927,budi.hidayat@email.com,Perempuan,Pegawai Negeri
+1371,Dewi Lestari,1976-11-29,Jl. Pahlawan No. 50 Bandung,08198917992,dewi.lestari@email.com,Laki-laki,Insinyur
+1372,Joko Hidayat,2000-12-06,Jl. Merdeka No. 90 Semarang,08231982498,joko.hidayat@email.com,Perempuan,Akuntan
+1373,Ani Hidayat,1983-09-16,Jl. Merdeka No. 58 Semarang,08346990185,ani.hidayat@email.com,Perempuan,Pegawai Negeri
+1374,Ahmad Nurhayati,1971-10-24,Jl. Diponegoro No. 54 Bandung,08420924709,ahmad.nurhayati@email.com,Perempuan,Akuntan
+1375,Joko Kusuma,1996-02-02,Jl. Gatot Subroto No. 94 Yogyakarta,08527268940,joko.kusuma@email.com,Perempuan,Insinyur
+1376,Ani Nurhayati,1983-10-20,Jl. Pahlawan No. 52 Surabaya,08509817174,ani.nurhayati@email.com,Laki-laki,Karyawan Swasta
+1377,Rudi Saputra,1979-01-25,Jl. Diponegoro No. 30 Surabaya,08877721890,rudi.saputra@email.com,Perempuan,Pengacara
+1378,Rina Saputra,1970-11-04,Jl. Sudirman No. 73 Jakarta,08864750369,rina.saputra@email.com,Laki-laki,Insinyur
+1379,Ani Saputra,1995-11-25,Jl. Sudirman No. 38 Surabaya,08878785564,ani.saputra@email.com,Laki-laki,Akuntan
+1380,Rina Hidayat,1978-02-11,Jl. Diponegoro No. 33 Yogyakarta,08939258871,rina.hidayat@email.com,Perempuan,Insinyur
+1381,Joko Kusuma,1989-10-11,Jl. Diponegoro No. 10 Yogyakarta,08424995009,joko.kusuma@email.com,Laki-laki,Pegawai Negeri
+1382,Ani Hidayat,1990-05-04,Jl. Sudirman No. 91 Bandung,08490654935,ani.hidayat@email.com,Laki-laki,Guru
+1383,Budi Santoso,1981-01-23,Jl. Sudirman No. 55 Surabaya,08764002919,budi.santoso@email.com,Perempuan,Akuntan
+1384,Rina Wijaya,1984-08-11,Jl. Diponegoro No. 52 Jakarta,08794785124,rina.wijaya@email.com,Perempuan,Pegawai Negeri
+1385,Rina Lestari,1999-08-17,Jl. Pahlawan No. 79 Bandung,08356193607,rina.lestari@email.com,Laki-laki,Akuntan
+1386,Siti Santoso,1973-08-28,Jl. Diponegoro No. 17 Bandung,08846646792,siti.santoso@email.com,Perempuan,Karyawan Swasta
+1387,Ahmad Nurhayati,1978-06-27,Jl. Diponegoro No. 1 Yogyakarta,08909125232,ahmad.nurhayati@email.com,Perempuan,Pengacara
+1388,Budi Nurhayati,1986-02-14,Jl. Sudirman No. 29 Yogyakarta,08472137149,budi.nurhayati@email.com,Perempuan,Pegawai Negeri
+1389,Rudi Hidayat,1995-08-12,Jl. Sudirman No. 3 Semarang,08683339286,rudi.hidayat@email.com,Laki-laki,Pengacara
+1390,Ani Santoso,1975-05-25,Jl. Merdeka No. 18 Semarang,08720039899,ani.santoso@email.com,Laki-laki,Karyawan Swasta
+1391,Rudi Lestari,1984-08-09,Jl. Gatot Subroto No. 64 Yogyakarta,08514486975,rudi.lestari@email.com,Perempuan,Dokter
+1392,Rudi Lestari,1987-08-19,Jl. Pahlawan No. 58 Semarang,08861840554,rudi.lestari@email.com,Laki-laki,Wiraswasta
+1393,Dewi Hidayat,1994-10-06,Jl. Sudirman No. 52 Yogyakarta,08823568057,dewi.hidayat@email.com,Laki-laki,Pengacara
+1394,Rudi Lestari,1984-01-13,Jl. Gatot Subroto No. 83 Bandung,08021488437,rudi.lestari@email.com,Laki-laki,Wiraswasta
+1395,Ani Santoso,1988-02-19,Jl. Diponegoro No. 90 Jakarta,08389019988,ani.santoso@email.com,Laki-laki,Akuntan
+1396,Rudi Saputra,2000-09-16,Jl. Gatot Subroto No. 98 Yogyakarta,08161960122,rudi.saputra@email.com,Perempuan,Akuntan
+1397,Rina Kusuma,1972-10-26,Jl. Gatot Subroto No. 15 Yogyakarta,08070407806,rina.kusuma@email.com,Laki-laki,Dokter
+1398,Ani Kusuma,1990-04-01,Jl. Pahlawan No. 72 Semarang,08134765886,ani.kusuma@email.com,Perempuan,Wiraswasta
+1399,Ani Kusuma,1987-09-13,Jl. Gatot Subroto No. 82 Jakarta,08433379164,ani.kusuma@email.com,Perempuan,Guru
+1400,Dewi Santoso,1992-02-15,Jl. Merdeka No. 53 Semarang,08526151508,dewi.santoso@email.com,Laki-laki,Guru
+1401,Ahmad Wijaya,1980-12-12,Jl. Gatot Subroto No. 43 Bandung,08752999548,ahmad.wijaya@email.com,Perempuan,Wiraswasta
+1402,Siti Saputra,1981-09-13,Jl. Diponegoro No. 32 Bandung,08090512039,siti.saputra@email.com,Laki-laki,Karyawan Swasta
+1403,Ahmad Hidayat,1991-03-09,Jl. Sudirman No. 39 Surabaya,08804692590,ahmad.hidayat@email.com,Laki-laki,Insinyur
+1404,Ahmad Wijaya,1975-08-23,Jl. Merdeka No. 43 Yogyakarta,08168627183,ahmad.wijaya@email.com,Perempuan,Wiraswasta
+1405,Ani Wijaya,1971-09-22,Jl. Pahlawan No. 56 Bandung,08085436011,ani.wijaya@email.com,Perempuan,Pengacara
+1406,Siti Lestari,1994-03-29,Jl. Sudirman No. 49 Semarang,08932542104,siti.lestari@email.com,Laki-laki,Pengacara
+1407,Budi Hidayat,1976-01-11,Jl. Sudirman No. 84 Bandung,08762670559,budi.hidayat@email.com,Laki-laki,Guru
+1408,Dewi Saputra,1985-11-08,Jl. Sudirman No. 34 Bandung,08704488755,dewi.saputra@email.com,Perempuan,Pegawai Negeri
+1409,Ahmad Lestari,1981-02-19,Jl. Pahlawan No. 13 Jakarta,08871072798,ahmad.lestari@email.com,Perempuan,Akuntan
+1410,Ani Kusuma,1990-05-30,Jl. Merdeka No. 68 Semarang,08632486868,ani.kusuma@email.com,Perempuan,Karyawan Swasta
+1411,Joko Lestari,1970-02-19,Jl. Gatot Subroto No. 45 Yogyakarta,08748770805,joko.lestari@email.com,Perempuan,Pegawai Negeri
+1412,Siti Santoso,2000-10-31,Jl. Gatot Subroto No. 4 Bandung,08785089210,siti.santoso@email.com,Perempuan,Dokter
+1413,Rina Lestari,1990-06-25,Jl. Gatot Subroto No. 41 Yogyakarta,08208512690,rina.lestari@email.com,Laki-laki,Pegawai Negeri
+1414,Ahmad Kusuma,1994-09-25,Jl. Sudirman No. 26 Jakarta,08277125798,ahmad.kusuma@email.com,Perempuan,Insinyur
+1415,Siti Nurhayati,1998-09-27,Jl. Sudirman No. 40 Bandung,08799510049,siti.nurhayati@email.com,Perempuan,Insinyur
+1416,Rina Santoso,1977-11-22,Jl. Gatot Subroto No. 24 Yogyakarta,08178472671,rina.santoso@email.com,Laki-laki,Akuntan
+1417,Budi Santoso,1976-03-16,Jl. Diponegoro No. 47 Surabaya,08999240515,budi.santoso@email.com,Perempuan,Akuntan
+1418,Joko Saputra,1987-01-03,Jl. Pahlawan No. 58 Semarang,08793710251,joko.saputra@email.com,Laki-laki,Guru
+1419,Budi Santoso,1973-03-26,Jl. Pahlawan No. 25 Surabaya,08467986847,budi.santoso@email.com,Perempuan,Insinyur
+1420,Siti Saputra,1995-03-28,Jl. Sudirman No. 75 Semarang,08645040752,siti.saputra@email.com,Laki-laki,Pengacara
+1421,Joko Nurhayati,1973-08-07,Jl. Diponegoro No. 36 Surabaya,08313188918,joko.nurhayati@email.com,Laki-laki,Guru
+1422,Dewi Wijaya,1996-04-04,Jl. Gatot Subroto No. 34 Yogyakarta,08823912023,dewi.wijaya@email.com,Perempuan,Pegawai Negeri
+1423,Rina Saputra,1974-07-06,Jl. Diponegoro No. 91 Surabaya,08011091112,rina.saputra@email.com,Laki-laki,Akuntan
+1424,Budi Nurhayati,1998-08-03,Jl. Sudirman No. 97 Jakarta,08784535120,budi.nurhayati@email.com,Laki-laki,Pengacara
+1425,Dewi Kusuma,1982-06-23,Jl. Sudirman No. 62 Bandung,08611125200,dewi.kusuma@email.com,Laki-laki,Akuntan
+1426,Rina Lestari,1993-11-30,Jl. Pahlawan No. 89 Jakarta,08444648024,rina.lestari@email.com,Perempuan,Karyawan Swasta
+1427,Rudi Lestari,1973-04-02,Jl. Pahlawan No. 71 Semarang,08949299201,rudi.lestari@email.com,Laki-laki,Akuntan
+1428,Rudi Santoso,1988-01-27,Jl. Sudirman No. 11 Semarang,08919483305,rudi.santoso@email.com,Perempuan,Insinyur
+1429,Joko Nurhayati,1986-10-26,Jl. Gatot Subroto No. 18 Jakarta,08012945240,joko.nurhayati@email.com,Perempuan,Guru
+1430,Ahmad Lestari,1983-07-23,Jl. Gatot Subroto No. 83 Jakarta,08945303764,ahmad.lestari@email.com,Perempuan,Dokter
+1431,Dewi Santoso,1977-10-04,Jl. Gatot Subroto No. 88 Surabaya,08000325249,dewi.santoso@email.com,Perempuan,Wiraswasta
+1432,Ani Lestari,1980-07-08,Jl. Diponegoro No. 59 Semarang,08565516203,ani.lestari@email.com,Perempuan,Pengacara
+1433,Rudi Santoso,1977-08-10,Jl. Sudirman No. 57 Surabaya,08843626833,rudi.santoso@email.com,Laki-laki,Dokter
+1434,Ahmad Nurhayati,2000-03-16,Jl. Sudirman No. 78 Semarang,08175033450,ahmad.nurhayati@email.com,Perempuan,Pengacara
+1435,Budi Kusuma,1989-10-07,Jl. Diponegoro No. 79 Surabaya,08502845387,budi.kusuma@email.com,Laki-laki,Wiraswasta
+1436,Siti Wijaya,1991-10-02,Jl. Sudirman No. 84 Yogyakarta,08817246778,siti.wijaya@email.com,Perempuan,Pegawai Negeri
+1437,Siti Lestari,1991-12-29,Jl. Diponegoro No. 49 Jakarta,08692985378,siti.lestari@email.com,Laki-laki,Pegawai Negeri
+1438,Rudi Saputra,1979-03-11,Jl. Diponegoro No. 99 Semarang,08411253373,rudi.saputra@email.com,Perempuan,Dokter
+1439,Ahmad Saputra,1970-08-07,Jl. Diponegoro No. 90 Surabaya,08899455445,ahmad.saputra@email.com,Laki-laki,Karyawan Swasta
+1440,Dewi Wijaya,1977-04-28,Jl. Diponegoro No. 50 Jakarta,08048585116,dewi.wijaya@email.com,Perempuan,Insinyur
+1441,Ahmad Kusuma,1976-03-13,Jl. Gatot Subroto No. 32 Yogyakarta,08160102615,ahmad.kusuma@email.com,Perempuan,Insinyur
+1442,Dewi Hidayat,1977-07-25,Jl. Sudirman No. 22 Jakarta,08541622286,dewi.hidayat@email.com,Perempuan,Akuntan
+1443,Joko Santoso,1982-03-21,Jl. Pahlawan No. 86 Semarang,08698991775,joko.santoso@email.com,Perempuan,Akuntan
+1444,Ahmad Santoso,1980-02-13,Jl. Pahlawan No. 19 Jakarta,08249554834,ahmad.santoso@email.com,Laki-laki,Dokter
+1445,Ahmad Wijaya,1990-01-05,Jl. Pahlawan No. 64 Surabaya,08336606716,ahmad.wijaya@email.com,Perempuan,Akuntan
+1446,Budi Lestari,1990-12-28,Jl. Sudirman No. 90 Semarang,08780222975,budi.lestari@email.com,Laki-laki,Insinyur
+1447,Dewi Nurhayati,1972-12-04,Jl. Merdeka No. 65 Semarang,08067907060,dewi.nurhayati@email.com,Laki-laki,Akuntan
+1448,Dewi Nurhayati,1979-11-15,Jl. Merdeka No. 1 Yogyakarta,08810652122,dewi.nurhayati@email.com,Laki-laki,Insinyur
+1449,Rudi Kusuma,1984-10-22,Jl. Merdeka No. 57 Semarang,08721414096,rudi.kusuma@email.com,Laki-laki,Akuntan
+1450,Joko Hidayat,1984-05-16,Jl. Gatot Subroto No. 87 Surabaya,08016430943,joko.hidayat@email.com,Laki-laki,Akuntan
+1451,Rudi Saputra,1983-02-17,Jl. Gatot Subroto No. 40 Jakarta,08480971256,rudi.saputra@email.com,Laki-laki,Karyawan Swasta
+1452,Rudi Wijaya,1978-11-18,Jl. Sudirman No. 78 Surabaya,08073230304,rudi.wijaya@email.com,Perempuan,Insinyur
+1453,Joko Lestari,1975-02-17,Jl. Pahlawan No. 12 Semarang,08094490422,joko.lestari@email.com,Perempuan,Wiraswasta
+1454,Ani Lestari,1974-01-23,Jl. Diponegoro No. 1 Semarang,08328234363,ani.lestari@email.com,Laki-laki,Akuntan
+1455,Ahmad Lestari,1985-02-15,Jl. Diponegoro No. 54 Bandung,08320922562,ahmad.lestari@email.com,Perempuan,Karyawan Swasta
+1456,Ani Kusuma,1999-11-27,Jl. Gatot Subroto No. 32 Jakarta,08526479033,ani.kusuma@email.com,Perempuan,Wiraswasta
+1457,Ahmad Santoso,1997-08-04,Jl. Gatot Subroto No. 77 Yogyakarta,08384662460,ahmad.santoso@email.com,Perempuan,Wiraswasta
+1458,Budi Santoso,1997-06-29,Jl. Merdeka No. 29 Jakarta,08702509889,budi.santoso@email.com,Laki-laki,Karyawan Swasta
+1459,Joko Kusuma,1993-12-24,Jl. Gatot Subroto No. 52 Jakarta,08512233452,joko.kusuma@email.com,Perempuan,Dokter
+1460,Siti Lestari,1991-10-15,Jl. Merdeka No. 96 Yogyakarta,08563524780,siti.lestari@email.com,Laki-laki,Wiraswasta
+1461,Ani Wijaya,1973-01-27,Jl. Merdeka No. 25 Yogyakarta,08448931692,ani.wijaya@email.com,Laki-laki,Guru
+1462,Rudi Santoso,1980-03-04,Jl. Sudirman No. 2 Semarang,08805881328,rudi.santoso@email.com,Laki-laki,Pegawai Negeri
+1463,Ani Santoso,1992-01-24,Jl. Sudirman No. 39 Bandung,08653833102,ani.santoso@email.com,Laki-laki,Guru
+1464,Rina Nurhayati,1974-11-24,Jl. Pahlawan No. 37 Jakarta,08408887010,rina.nurhayati@email.com,Perempuan,Akuntan
+1465,Rudi Nurhayati,1990-11-22,Jl. Merdeka No. 49 Yogyakarta,08186238241,rudi.nurhayati@email.com,Perempuan,Pengacara
+1466,Rina Hidayat,1994-01-04,Jl. Diponegoro No. 55 Semarang,08339031748,rina.hidayat@email.com,Perempuan,Guru
+1467,Budi Lestari,1992-08-20,Jl. Pahlawan No. 69 Semarang,08330651724,budi.lestari@email.com,Laki-laki,Pengacara
+1468,Budi Nurhayati,1988-04-24,Jl. Gatot Subroto No. 9 Yogyakarta,08674023326,budi.nurhayati@email.com,Laki-laki,Karyawan Swasta
+1469,Ahmad Nurhayati,1978-04-01,Jl. Merdeka No. 98 Yogyakarta,08112020411,ahmad.nurhayati@email.com,Laki-laki,Wiraswasta
+1470,Ahmad Lestari,1987-03-31,Jl. Diponegoro No. 7 Bandung,08079998932,ahmad.lestari@email.com,Perempuan,Pegawai Negeri
+1471,Budi Kusuma,1997-11-23,Jl. Diponegoro No. 40 Yogyakarta,08507955150,budi.kusuma@email.com,Perempuan,Insinyur
+1472,Budi Hidayat,1991-06-06,Jl. Diponegoro No. 76 Jakarta,08101291408,budi.hidayat@email.com,Perempuan,Guru
+1473,Joko Nurhayati,1981-09-07,Jl. Pahlawan No. 1 Surabaya,08617344513,joko.nurhayati@email.com,Perempuan,Guru
+1474,Ahmad Nurhayati,1997-04-18,Jl. Gatot Subroto No. 55 Jakarta,08617814259,ahmad.nurhayati@email.com,Perempuan,Wiraswasta
+1475,Dewi Santoso,1979-05-24,Jl. Sudirman No. 34 Bandung,08891199629,dewi.santoso@email.com,Laki-laki,Wiraswasta
+1476,Budi Wijaya,1987-08-21,Jl. Sudirman No. 89 Surabaya,08057344610,budi.wijaya@email.com,Perempuan,Karyawan Swasta
+1477,Rina Nurhayati,1996-09-13,Jl. Pahlawan No. 81 Surabaya,08696878862,rina.nurhayati@email.com,Perempuan,Pegawai Negeri
+1478,Rina Santoso,1982-03-08,Jl. Merdeka No. 49 Semarang,08103222488,rina.santoso@email.com,Perempuan,Pengacara
+1479,Dewi Lestari,1990-07-16,Jl. Sudirman No. 24 Semarang,08361803327,dewi.lestari@email.com,Laki-laki,Pengacara
+1480,Ani Lestari,1991-11-11,Jl. Merdeka No. 67 Yogyakarta,08304826073,ani.lestari@email.com,Laki-laki,Akuntan
+1481,Rudi Wijaya,1972-06-18,Jl. Diponegoro No. 90 Semarang,08864348184,rudi.wijaya@email.com,Perempuan,Guru
+1482,Joko Hidayat,1973-09-03,Jl. Pahlawan No. 57 Surabaya,08597886259,joko.hidayat@email.com,Laki-laki,Pegawai Negeri
+1483,Rina Hidayat,1994-07-04,Jl. Pahlawan No. 94 Surabaya,08967025604,rina.hidayat@email.com,Perempuan,Pegawai Negeri
+1484,Siti Wijaya,1987-05-12,Jl. Merdeka No. 17 Bandung,08833993205,siti.wijaya@email.com,Laki-laki,Akuntan
+1485,Budi Saputra,1975-11-09,Jl. Gatot Subroto No. 46 Semarang,08222839027,budi.saputra@email.com,Perempuan,Dokter
+1486,Rina Santoso,1998-10-12,Jl. Diponegoro No. 43 Bandung,08378777581,rina.santoso@email.com,Laki-laki,Pengacara
+1487,Ahmad Lestari,1978-08-23,Jl. Gatot Subroto No. 16 Surabaya,08653075709,ahmad.lestari@email.com,Perempuan,Karyawan Swasta
+1488,Budi Hidayat,2000-12-11,Jl. Gatot Subroto No. 77 Semarang,08486641511,budi.hidayat@email.com,Perempuan,Karyawan Swasta
+1489,Budi Lestari,1994-01-02,Jl. Pahlawan No. 40 Jakarta,08701646697,budi.lestari@email.com,Perempuan,Wiraswasta
+1490,Rina Nurhayati,1973-12-18,Jl. Diponegoro No. 17 Jakarta,08451437930,rina.nurhayati@email.com,Perempuan,Akuntan
+1491,Budi Santoso,1996-04-16,Jl. Sudirman No. 81 Yogyakarta,08348333426,budi.santoso@email.com,Laki-laki,Dokter
+1492,Ani Wijaya,1980-06-16,Jl. Pahlawan No. 25 Yogyakarta,08434192782,ani.wijaya@email.com,Laki-laki,Insinyur
+1493,Ani Lestari,1981-05-24,Jl. Pahlawan No. 64 Bandung,08609165979,ani.lestari@email.com,Perempuan,Wiraswasta
+1494,Ahmad Lestari,1973-02-14,Jl. Gatot Subroto No. 56 Jakarta,08912856044,ahmad.lestari@email.com,Perempuan,Pengacara
+1495,Siti Lestari,1971-08-07,Jl. Pahlawan No. 30 Semarang,08522786549,siti.lestari@email.com,Laki-laki,Insinyur
+1496,Ani Kusuma,1982-08-28,Jl. Merdeka No. 88 Jakarta,08237133845,ani.kusuma@email.com,Laki-laki,Insinyur
+1497,Rina Santoso,1977-12-20,Jl. Gatot Subroto No. 90 Jakarta,08596929628,rina.santoso@email.com,Laki-laki,Pengacara
+1498,Budi Saputra,1990-04-28,Jl. Merdeka No. 79 Semarang,08217848498,budi.saputra@email.com,Perempuan,Pengacara
+1499,Dewi Wijaya,1995-08-26,Jl. Pahlawan No. 58 Jakarta,08560802779,dewi.wijaya@email.com,Laki-laki,Akuntan
+1500,Rudi Nurhayati,1977-08-04,Jl. Sudirman No. 54 Surabaya,08436319226,rudi.nurhayati@email.com,Perempuan,Pegawai Negeri
+1501,Ani Santoso,1983-04-22,Jl. Gatot Subroto No. 41 Semarang,08036561210,ani.santoso@email.com,Laki-laki,Dokter
+1502,Siti Saputra,1998-10-28,Jl. Pahlawan No. 60 Bandung,08968858563,siti.saputra@email.com,Perempuan,Pegawai Negeri
+1503,Joko Wijaya,1979-08-23,Jl. Diponegoro No. 6 Bandung,08783829007,joko.wijaya@email.com,Perempuan,Wiraswasta
+1504,Ani Saputra,1987-07-05,Jl. Diponegoro No. 36 Surabaya,08678035982,ani.saputra@email.com,Laki-laki,Guru
+1505,Ani Hidayat,1989-11-22,Jl. Merdeka No. 39 Yogyakarta,08611714948,ani.hidayat@email.com,Laki-laki,Pegawai Negeri
+1506,Rina Saputra,1979-11-27,Jl. Sudirman No. 50 Semarang,08659595403,rina.saputra@email.com,Perempuan,Guru
+1507,Ahmad Saputra,1973-10-28,Jl. Diponegoro No. 31 Jakarta,08121823012,ahmad.saputra@email.com,Perempuan,Dokter
+1508,Budi Wijaya,1983-04-08,Jl. Gatot Subroto No. 74 Yogyakarta,08602376222,budi.wijaya@email.com,Perempuan,Insinyur
+1509,Dewi Kusuma,1981-12-23,Jl. Sudirman No. 90 Yogyakarta,08386053906,dewi.kusuma@email.com,Perempuan,Dokter
+1510,Dewi Nurhayati,1980-05-16,Jl. Diponegoro No. 8 Semarang,08858105586,dewi.nurhayati@email.com,Laki-laki,Guru
+1511,Rudi Wijaya,1987-07-03,Jl. Pahlawan No. 31 Bandung,08632920056,rudi.wijaya@email.com,Laki-laki,Pengacara
+1512,Rina Saputra,1973-05-04,Jl. Merdeka No. 36 Yogyakarta,08147371189,rina.saputra@email.com,Perempuan,Wiraswasta
+1513,Joko Lestari,1987-02-25,Jl. Diponegoro No. 97 Surabaya,08210332169,joko.lestari@email.com,Perempuan,Akuntan
+1514,Ani Saputra,1979-10-31,Jl. Diponegoro No. 58 Semarang,08366500892,ani.saputra@email.com,Laki-laki,Pegawai Negeri
+1515,Ani Wijaya,1978-07-17,Jl. Pahlawan No. 87 Jakarta,08775684382,ani.wijaya@email.com,Laki-laki,Insinyur
+1516,Dewi Lestari,1973-03-12,Jl. Sudirman No. 2 Bandung,08732430856,dewi.lestari@email.com,Perempuan,Dokter
+1517,Budi Saputra,1988-12-04,Jl. Sudirman No. 43 Surabaya,08467856440,budi.saputra@email.com,Laki-laki,Insinyur
+1518,Budi Santoso,1987-05-13,Jl. Pahlawan No. 19 Surabaya,08941823318,budi.santoso@email.com,Perempuan,Karyawan Swasta
+1519,Siti Saputra,1983-03-14,Jl. Gatot Subroto No. 14 Semarang,08617382296,siti.saputra@email.com,Perempuan,Dokter
+1520,Siti Wijaya,1975-08-02,Jl. Sudirman No. 10 Surabaya,08919850249,siti.wijaya@email.com,Perempuan,Akuntan
+1521,Ani Hidayat,1984-03-01,Jl. Merdeka No. 5 Bandung,08931696690,ani.hidayat@email.com,Laki-laki,Akuntan
+1522,Rudi Saputra,1999-11-07,Jl. Sudirman No. 57 Bandung,08881991182,rudi.saputra@email.com,Perempuan,Karyawan Swasta
+1523,Ahmad Saputra,1992-08-05,Jl. Pahlawan No. 84 Surabaya,08488121504,ahmad.saputra@email.com,Perempuan,Pegawai Negeri
+1524,Siti Wijaya,1989-02-13,Jl. Merdeka No. 7 Jakarta,08059294051,siti.wijaya@email.com,Laki-laki,Pengacara
+1525,Budi Hidayat,1973-05-28,Jl. Pahlawan No. 42 Semarang,08686433932,budi.hidayat@email.com,Laki-laki,Dokter
+1526,Rina Saputra,1978-04-03,Jl. Sudirman No. 68 Jakarta,08466877955,rina.saputra@email.com,Laki-laki,Guru
+1527,Siti Hidayat,1995-11-07,Jl. Diponegoro No. 31 Bandung,08121498355,siti.hidayat@email.com,Perempuan,Guru
+1528,Joko Santoso,1984-07-30,Jl. Pahlawan No. 63 Bandung,08669493479,joko.santoso@email.com,Perempuan,Pengacara
+1529,Dewi Nurhayati,1997-09-12,Jl. Merdeka No. 47 Surabaya,08027796392,dewi.nurhayati@email.com,Laki-laki,Wiraswasta
+1530,Dewi Nurhayati,1995-01-15,Jl. Diponegoro No. 41 Yogyakarta,08310727289,dewi.nurhayati@email.com,Perempuan,Dokter
+1531,Rudi Hidayat,1972-01-11,Jl. Pahlawan No. 4 Yogyakarta,08611289813,rudi.hidayat@email.com,Laki-laki,Karyawan Swasta
+1532,Ani Kusuma,1984-02-18,Jl. Gatot Subroto No. 71 Yogyakarta,08947844589,ani.kusuma@email.com,Perempuan,Pegawai Negeri
+1533,Budi Santoso,1986-03-11,Jl. Merdeka No. 17 Yogyakarta,08832469662,budi.santoso@email.com,Laki-laki,Pengacara
+1534,Ani Lestari,1996-08-19,Jl. Pahlawan No. 96 Semarang,08169539884,ani.lestari@email.com,Perempuan,Wiraswasta
+1535,Ahmad Saputra,1997-05-22,Jl. Pahlawan No. 26 Semarang,08283956985,ahmad.saputra@email.com,Laki-laki,Guru
+1536,Joko Wijaya,1993-10-15,Jl. Merdeka No. 20 Jakarta,08446852787,joko.wijaya@email.com,Laki-laki,Akuntan
+1537,Rudi Wijaya,1983-11-01,Jl. Merdeka No. 28 Yogyakarta,08202249403,rudi.wijaya@email.com,Laki-laki,Dokter
+1538,Rina Santoso,1999-11-15,Jl. Gatot Subroto No. 56 Bandung,08531611414,rina.santoso@email.com,Perempuan,Insinyur
+1539,Ani Hidayat,1992-03-02,Jl. Diponegoro No. 85 Bandung,08082550981,ani.hidayat@email.com,Perempuan,Guru
+1540,Siti Saputra,1975-09-18,Jl. Gatot Subroto No. 75 Bandung,08878903142,siti.saputra@email.com,Laki-laki,Pengacara
+1541,Rudi Hidayat,1974-06-03,Jl. Gatot Subroto No. 78 Semarang,08344407632,rudi.hidayat@email.com,Laki-laki,Pengacara
+1542,Ahmad Santoso,1988-02-11,Jl. Diponegoro No. 59 Semarang,08418163334,ahmad.santoso@email.com,Laki-laki,Guru
+1543,Dewi Kusuma,1988-02-18,Jl. Pahlawan No. 79 Surabaya,08960856574,dewi.kusuma@email.com,Laki-laki,Dokter
+1544,Joko Wijaya,1979-06-12,Jl. Gatot Subroto No. 98 Jakarta,08669041896,joko.wijaya@email.com,Laki-laki,Pengacara
+1545,Rina Wijaya,1985-11-07,Jl. Merdeka No. 43 Jakarta,08750809971,rina.wijaya@email.com,Laki-laki,Pegawai Negeri
+1546,Ani Santoso,1999-01-26,Jl. Merdeka No. 37 Jakarta,08637285328,ani.santoso@email.com,Perempuan,Pengacara
+1547,Siti Lestari,1996-08-08,Jl. Diponegoro No. 33 Bandung,08267713859,siti.lestari@email.com,Perempuan,Pengacara
+1548,Rudi Nurhayati,1978-03-13,Jl. Sudirman No. 42 Yogyakarta,08036125391,rudi.nurhayati@email.com,Perempuan,Insinyur
+1549,Siti Hidayat,1983-05-20,Jl. Gatot Subroto No. 77 Jakarta,08218478228,siti.hidayat@email.com,Laki-laki,Wiraswasta
+1550,Ani Saputra,2000-03-04,Jl. Sudirman No. 91 Bandung,08645159515,ani.saputra@email.com,Laki-laki,Akuntan
+1551,Ahmad Lestari,1981-12-03,Jl. Sudirman No. 6 Yogyakarta,08817782078,ahmad.lestari@email.com,Perempuan,Pegawai Negeri
+1552,Joko Kusuma,1990-11-15,Jl. Diponegoro No. 70 Semarang,08540659659,joko.kusuma@email.com,Perempuan,Pegawai Negeri
+1553,Rudi Saputra,2000-09-17,Jl. Merdeka No. 64 Bandung,08605979771,rudi.saputra@email.com,Laki-laki,Guru
+1554,Dewi Saputra,1989-11-27,Jl. Pahlawan No. 5 Bandung,08698875598,dewi.saputra@email.com,Laki-laki,Guru
+1555,Siti Nurhayati,1982-05-23,Jl. Merdeka No. 19 Yogyakarta,08166735920,siti.nurhayati@email.com,Laki-laki,Pegawai Negeri
+1556,Ani Kusuma,1983-08-06,Jl. Sudirman No. 14 Yogyakarta,08326722646,ani.kusuma@email.com,Perempuan,Wiraswasta
+1557,Ani Lestari,1971-10-12,Jl. Pahlawan No. 3 Surabaya,08272239544,ani.lestari@email.com,Laki-laki,Akuntan
+1558,Ahmad Saputra,1991-11-09,Jl. Diponegoro No. 6 Yogyakarta,08682140247,ahmad.saputra@email.com,Laki-laki,Dokter
+1559,Siti Wijaya,1990-08-26,Jl. Merdeka No. 56 Yogyakarta,08232540754,siti.wijaya@email.com,Laki-laki,Akuntan
+1560,Rina Hidayat,1996-04-17,Jl. Merdeka No. 89 Bandung,08571779353,rina.hidayat@email.com,Perempuan,Wiraswasta
+1561,Rina Hidayat,1977-02-07,Jl. Sudirman No. 28 Semarang,08652527376,rina.hidayat@email.com,Perempuan,Akuntan
+1562,Dewi Wijaya,1980-12-06,Jl. Diponegoro No. 63 Bandung,08230512133,dewi.wijaya@email.com,Laki-laki,Pengacara
+1563,Ahmad Wijaya,1983-07-22,Jl. Pahlawan No. 37 Semarang,08021408384,ahmad.wijaya@email.com,Laki-laki,Guru
+1564,Joko Santoso,1988-02-29,Jl. Diponegoro No. 44 Bandung,08252425173,joko.santoso@email.com,Laki-laki,Pegawai Negeri
+1565,Siti Hidayat,1981-09-25,Jl. Merdeka No. 11 Semarang,08286255944,siti.hidayat@email.com,Laki-laki,Akuntan
+1566,Ani Lestari,1976-03-09,Jl. Sudirman No. 46 Jakarta,08633233675,ani.lestari@email.com,Perempuan,Karyawan Swasta
+1567,Dewi Saputra,1994-10-13,Jl. Sudirman No. 24 Jakarta,08717951897,dewi.saputra@email.com,Perempuan,Karyawan Swasta
+1568,Ani Hidayat,1993-09-02,Jl. Sudirman No. 49 Bandung,08381788675,ani.hidayat@email.com,Laki-laki,Pegawai Negeri
+1569,Budi Hidayat,1996-04-11,Jl. Merdeka No. 92 Surabaya,08767145166,budi.hidayat@email.com,Perempuan,Guru
+1570,Dewi Lestari,1989-12-30,Jl. Gatot Subroto No. 5 Bandung,08718847170,dewi.lestari@email.com,Laki-laki,Dokter
+1571,Ahmad Kusuma,1988-02-10,Jl. Diponegoro No. 69 Semarang,08230074424,ahmad.kusuma@email.com,Perempuan,Karyawan Swasta
+1572,Budi Santoso,1996-08-22,Jl. Sudirman No. 83 Jakarta,08398712526,budi.santoso@email.com,Perempuan,Akuntan
+1573,Ahmad Nurhayati,1985-08-14,Jl. Gatot Subroto No. 58 Yogyakarta,08459504495,ahmad.nurhayati@email.com,Laki-laki,Akuntan
+1574,Siti Nurhayati,1987-07-14,Jl. Gatot Subroto No. 47 Jakarta,08232880905,siti.nurhayati@email.com,Laki-laki,Pengacara
+1575,Ahmad Nurhayati,1995-08-12,Jl. Diponegoro No. 12 Bandung,08096175151,ahmad.nurhayati@email.com,Laki-laki,Wiraswasta
+1576,Ani Kusuma,1988-01-06,Jl. Gatot Subroto No. 93 Bandung,08283377606,ani.kusuma@email.com,Perempuan,Akuntan
+1577,Budi Lestari,2000-12-11,Jl. Diponegoro No. 35 Jakarta,08582042881,budi.lestari@email.com,Perempuan,Karyawan Swasta
+1578,Ahmad Nurhayati,1972-01-26,Jl. Merdeka No. 83 Surabaya,08348313442,ahmad.nurhayati@email.com,Laki-laki,Insinyur
+1579,Dewi Wijaya,2000-06-06,Jl. Pahlawan No. 43 Semarang,08515124988,dewi.wijaya@email.com,Laki-laki,Dokter
+1580,Siti Santoso,1999-10-10,Jl. Merdeka No. 12 Jakarta,08074721174,siti.santoso@email.com,Perempuan,Pegawai Negeri
+1581,Budi Nurhayati,1977-12-24,Jl. Gatot Subroto No. 28 Bandung,08579854294,budi.nurhayati@email.com,Laki-laki,Wiraswasta
+1582,Siti Nurhayati,1997-06-21,Jl. Sudirman No. 3 Jakarta,08583912443,siti.nurhayati@email.com,Laki-laki,Karyawan Swasta
+1583,Rina Nurhayati,1986-02-08,Jl. Gatot Subroto No. 24 Semarang,08472534641,rina.nurhayati@email.com,Perempuan,Karyawan Swasta
+1584,Rudi Saputra,1991-07-06,Jl. Merdeka No. 25 Semarang,08143987521,rudi.saputra@email.com,Perempuan,Pengacara
+1585,Dewi Lestari,1979-11-07,Jl. Diponegoro No. 78 Surabaya,08637083898,dewi.lestari@email.com,Perempuan,Akuntan
+1586,Ahmad Santoso,1983-02-12,Jl. Gatot Subroto No. 45 Semarang,08800151602,ahmad.santoso@email.com,Laki-laki,Pengacara
+1587,Rina Hidayat,1973-06-26,Jl. Sudirman No. 59 Semarang,08409451198,rina.hidayat@email.com,Laki-laki,Insinyur
+1588,Rudi Wijaya,1984-01-12,Jl. Diponegoro No. 68 Semarang,08010342296,rudi.wijaya@email.com,Perempuan,Insinyur
+1589,Rudi Saputra,1974-01-09,Jl. Gatot Subroto No. 94 Yogyakarta,08115182618,rudi.saputra@email.com,Perempuan,Akuntan
+1590,Ani Saputra,1990-10-30,Jl. Diponegoro No. 97 Surabaya,08936732636,ani.saputra@email.com,Perempuan,Pengacara
+1591,Rudi Lestari,1987-09-13,Jl. Merdeka No. 74 Bandung,08601688339,rudi.lestari@email.com,Laki-laki,Karyawan Swasta
+1592,Ahmad Santoso,1973-07-14,Jl. Pahlawan No. 16 Bandung,08753172102,ahmad.santoso@email.com,Perempuan,Guru
+1593,Ahmad Kusuma,1989-05-21,Jl. Merdeka No. 99 Yogyakarta,08246996692,ahmad.kusuma@email.com,Laki-laki,Karyawan Swasta
+1594,Budi Hidayat,1978-10-24,Jl. Sudirman No. 94 Jakarta,08872686806,budi.hidayat@email.com,Perempuan,Dokter
+1595,Ahmad Hidayat,1990-05-11,Jl. Pahlawan No. 63 Bandung,08348685699,ahmad.hidayat@email.com,Laki-laki,Dokter
+1596,Dewi Saputra,1970-03-14,Jl. Sudirman No. 41 Yogyakarta,08518846710,dewi.saputra@email.com,Laki-laki,Wiraswasta
+1597,Rudi Wijaya,1993-06-08,Jl. Gatot Subroto No. 78 Semarang,08557326555,rudi.wijaya@email.com,Laki-laki,Pegawai Negeri
+1598,Ahmad Nurhayati,1971-02-11,Jl. Sudirman No. 61 Yogyakarta,08242015250,ahmad.nurhayati@email.com,Laki-laki,Akuntan
+1599,Budi Saputra,2000-07-07,Jl. Pahlawan No. 21 Semarang,08919032830,budi.saputra@email.com,Perempuan,Karyawan Swasta
+1600,Rina Kusuma,1988-04-08,Jl. Pahlawan No. 17 Jakarta,08590182099,rina.kusuma@email.com,Laki-laki,Guru
+1601,Ahmad Saputra,1991-07-03,Jl. Pahlawan No. 3 Jakarta,08950740916,ahmad.saputra@email.com,Laki-laki,Guru
+1602,Joko Wijaya,1989-11-10,Jl. Diponegoro No. 55 Surabaya,08010806916,joko.wijaya@email.com,Perempuan,Guru
+1603,Joko Saputra,1982-08-01,Jl. Sudirman No. 59 Bandung,08858754461,joko.saputra@email.com,Laki-laki,Pengacara
+1604,Ahmad Kusuma,1981-04-09,Jl. Merdeka No. 69 Semarang,08027925920,ahmad.kusuma@email.com,Laki-laki,Wiraswasta
+1605,Joko Santoso,1978-02-26,Jl. Sudirman No. 4 Surabaya,08949839607,joko.santoso@email.com,Perempuan,Karyawan Swasta
+1606,Siti Santoso,1984-05-18,Jl. Sudirman No. 19 Yogyakarta,08674823172,siti.santoso@email.com,Perempuan,Pegawai Negeri
+1607,Rudi Saputra,1972-12-25,Jl. Diponegoro No. 98 Surabaya,08234332312,rudi.saputra@email.com,Laki-laki,Pengacara
+1608,Joko Santoso,1999-02-03,Jl. Pahlawan No. 2 Jakarta,08897380808,joko.santoso@email.com,Perempuan,Guru
+1609,Budi Wijaya,1988-08-01,Jl. Diponegoro No. 92 Yogyakarta,08325483905,budi.wijaya@email.com,Laki-laki,Wiraswasta
+1610,Budi Saputra,1996-08-05,Jl. Diponegoro No. 100 Yogyakarta,08932773857,budi.saputra@email.com,Laki-laki,Insinyur
+1611,Joko Lestari,1986-10-24,Jl. Merdeka No. 34 Yogyakarta,08534400617,joko.lestari@email.com,Perempuan,Akuntan
+1612,Budi Hidayat,1990-09-23,Jl. Gatot Subroto No. 49 Surabaya,08902228409,budi.hidayat@email.com,Laki-laki,Akuntan
+1613,Ani Wijaya,1978-02-14,Jl. Gatot Subroto No. 77 Semarang,08213068062,ani.wijaya@email.com,Perempuan,Guru
+1614,Ahmad Kusuma,1996-11-30,Jl. Diponegoro No. 18 Surabaya,08561314142,ahmad.kusuma@email.com,Laki-laki,Guru
+1615,Dewi Hidayat,1982-12-01,Jl. Diponegoro No. 71 Semarang,08713311988,dewi.hidayat@email.com,Laki-laki,Karyawan Swasta
+1616,Ani Wijaya,1994-11-10,Jl. Merdeka No. 76 Semarang,08867201135,ani.wijaya@email.com,Perempuan,Pegawai Negeri
+1617,Rudi Lestari,1978-06-08,Jl. Pahlawan No. 51 Surabaya,08369561273,rudi.lestari@email.com,Laki-laki,Guru
+1618,Rudi Saputra,1999-02-11,Jl. Diponegoro No. 41 Bandung,08820257919,rudi.saputra@email.com,Laki-laki,Guru
+1619,Ani Lestari,1997-03-01,Jl. Diponegoro No. 20 Jakarta,08850115045,ani.lestari@email.com,Perempuan,Pengacara
+1620,Rina Nurhayati,1993-06-24,Jl. Pahlawan No. 22 Surabaya,08827739992,rina.nurhayati@email.com,Laki-laki,Wiraswasta
+1621,Rudi Lestari,1995-05-26,Jl. Sudirman No. 13 Semarang,08255659027,rudi.lestari@email.com,Perempuan,Guru
+1622,Siti Saputra,1994-11-30,Jl. Pahlawan No. 36 Jakarta,08889309279,siti.saputra@email.com,Perempuan,Karyawan Swasta
+1623,Joko Hidayat,1990-03-13,Jl. Merdeka No. 23 Bandung,08453833324,joko.hidayat@email.com,Laki-laki,Insinyur
+1624,Joko Lestari,1986-02-19,Jl. Gatot Subroto No. 77 Surabaya,08195453499,joko.lestari@email.com,Perempuan,Pegawai Negeri
+1625,Joko Nurhayati,1976-12-22,Jl. Gatot Subroto No. 34 Jakarta,08778795568,joko.nurhayati@email.com,Laki-laki,Pegawai Negeri
+1626,Ahmad Kusuma,1975-05-07,Jl. Gatot Subroto No. 92 Surabaya,08688062895,ahmad.kusuma@email.com,Perempuan,Karyawan Swasta
+1627,Rina Hidayat,1971-10-26,Jl. Gatot Subroto No. 73 Yogyakarta,08473364369,rina.hidayat@email.com,Laki-laki,Insinyur
+1628,Rudi Santoso,1989-06-23,Jl. Diponegoro No. 25 Semarang,08907816925,rudi.santoso@email.com,Perempuan,Dokter
+1629,Ani Kusuma,1991-02-25,Jl. Diponegoro No. 97 Yogyakarta,08744017772,ani.kusuma@email.com,Laki-laki,Pegawai Negeri
+1630,Ani Nurhayati,1971-02-09,Jl. Sudirman No. 64 Surabaya,08280800653,ani.nurhayati@email.com,Laki-laki,Wiraswasta
+1631,Budi Hidayat,1981-10-23,Jl. Pahlawan No. 88 Jakarta,08269078532,budi.hidayat@email.com,Perempuan,Guru
+1632,Rina Saputra,1980-10-26,Jl. Merdeka No. 76 Jakarta,08025358263,rina.saputra@email.com,Laki-laki,Karyawan Swasta
+1633,Budi Nurhayati,1979-09-04,Jl. Merdeka No. 57 Yogyakarta,08858891990,budi.nurhayati@email.com,Laki-laki,Dokter
+1634,Siti Santoso,1973-06-05,Jl. Diponegoro No. 96 Surabaya,08731952379,siti.santoso@email.com,Perempuan,Wiraswasta
+1635,Siti Hidayat,1995-03-13,Jl. Merdeka No. 66 Yogyakarta,08814009735,siti.hidayat@email.com,Perempuan,Wiraswasta
+1636,Dewi Nurhayati,1994-05-21,Jl. Gatot Subroto No. 73 Jakarta,08703572976,dewi.nurhayati@email.com,Laki-laki,Karyawan Swasta
+1637,Dewi Wijaya,1973-11-06,Jl. Merdeka No. 98 Bandung,08671684804,dewi.wijaya@email.com,Perempuan,Pegawai Negeri
+1638,Joko Saputra,1991-02-17,Jl. Merdeka No. 75 Jakarta,08948183167,joko.saputra@email.com,Perempuan,Insinyur
+1639,Siti Hidayat,1995-06-23,Jl. Pahlawan No. 92 Jakarta,08770749669,siti.hidayat@email.com,Perempuan,Guru
+1640,Rina Saputra,1985-06-29,Jl. Sudirman No. 46 Surabaya,08719752865,rina.saputra@email.com,Laki-laki,Pengacara
+1641,Dewi Wijaya,1987-05-02,Jl. Diponegoro No. 84 Jakarta,08543442718,dewi.wijaya@email.com,Perempuan,Karyawan Swasta
+1642,Budi Kusuma,1987-08-18,Jl. Sudirman No. 32 Jakarta,08266672082,budi.kusuma@email.com,Perempuan,Dokter
+1643,Ahmad Wijaya,2000-04-17,Jl. Sudirman No. 4 Bandung,08050370848,ahmad.wijaya@email.com,Perempuan,Dokter
+1644,Joko Nurhayati,1984-09-26,Jl. Merdeka No. 68 Surabaya,08032961241,joko.nurhayati@email.com,Laki-laki,Wiraswasta
+1645,Ahmad Wijaya,1979-05-14,Jl. Diponegoro No. 43 Surabaya,08129557754,ahmad.wijaya@email.com,Laki-laki,Pegawai Negeri
+1646,Rudi Lestari,1987-09-22,Jl. Diponegoro No. 62 Yogyakarta,08150945361,rudi.lestari@email.com,Perempuan,Dokter
+1647,Rina Saputra,1978-05-01,Jl. Pahlawan No. 28 Semarang,08050172614,rina.saputra@email.com,Perempuan,Guru
+1648,Ani Hidayat,1974-01-05,Jl. Sudirman No. 26 Surabaya,08456030572,ani.hidayat@email.com,Laki-laki,Pegawai Negeri
+1649,Ani Nurhayati,2000-02-11,Jl. Diponegoro No. 10 Yogyakarta,08610073990,ani.nurhayati@email.com,Perempuan,Wiraswasta
+1650,Joko Saputra,1991-11-28,Jl. Pahlawan No. 65 Bandung,08690080588,joko.saputra@email.com,Perempuan,Karyawan Swasta
+1651,Rina Wijaya,1982-09-01,Jl. Pahlawan No. 77 Yogyakarta,08790188740,rina.wijaya@email.com,Perempuan,Pegawai Negeri
+1652,Ani Santoso,1973-03-09,Jl. Merdeka No. 44 Bandung,08930987641,ani.santoso@email.com,Laki-laki,Pegawai Negeri
+1653,Ani Wijaya,1971-06-06,Jl. Pahlawan No. 22 Semarang,08717914722,ani.wijaya@email.com,Perempuan,Pengacara
+1654,Siti Kusuma,1970-12-07,Jl. Merdeka No. 82 Yogyakarta,08022749268,siti.kusuma@email.com,Laki-laki,Dokter
+1655,Budi Wijaya,1998-01-11,Jl. Gatot Subroto No. 39 Surabaya,08350598375,budi.wijaya@email.com,Perempuan,Guru
+1656,Budi Lestari,1975-06-16,Jl. Merdeka No. 86 Yogyakarta,08718607568,budi.lestari@email.com,Perempuan,Pegawai Negeri
+1657,Budi Santoso,1997-03-10,Jl. Pahlawan No. 13 Surabaya,08120676055,budi.santoso@email.com,Perempuan,Insinyur
+1658,Siti Wijaya,1981-03-13,Jl. Sudirman No. 3 Bandung,08018047325,siti.wijaya@email.com,Laki-laki,Wiraswasta
+1659,Rina Saputra,1995-09-17,Jl. Pahlawan No. 53 Surabaya,08220540160,rina.saputra@email.com,Laki-laki,Insinyur
+1660,Ahmad Nurhayati,1986-01-31,Jl. Pahlawan No. 3 Surabaya,08446333272,ahmad.nurhayati@email.com,Laki-laki,Dokter
+1661,Rina Kusuma,1983-03-08,Jl. Sudirman No. 42 Yogyakarta,08617379920,rina.kusuma@email.com,Laki-laki,Pegawai Negeri
+1662,Joko Kusuma,1975-03-01,Jl. Pahlawan No. 6 Yogyakarta,08580903134,joko.kusuma@email.com,Perempuan,Insinyur
+1663,Rina Nurhayati,1998-08-24,Jl. Merdeka No. 71 Yogyakarta,08198683648,rina.nurhayati@email.com,Perempuan,Pengacara
+1664,Siti Lestari,1975-12-05,Jl. Merdeka No. 79 Jakarta,08835816006,siti.lestari@email.com,Laki-laki,Dokter
+1665,Siti Nurhayati,1973-10-14,Jl. Gatot Subroto No. 48 Semarang,08416222112,siti.nurhayati@email.com,Perempuan,Dokter
+1666,Joko Hidayat,1986-10-10,Jl. Merdeka No. 37 Semarang,08735077423,joko.hidayat@email.com,Laki-laki,Guru
+1667,Rina Kusuma,1980-10-14,Jl. Sudirman No. 46 Yogyakarta,08876861694,rina.kusuma@email.com,Perempuan,Karyawan Swasta
+1668,Budi Saputra,1987-04-18,Jl. Pahlawan No. 63 Surabaya,08525363812,budi.saputra@email.com,Perempuan,Insinyur
+1669,Siti Santoso,1979-05-27,Jl. Gatot Subroto No. 73 Jakarta,08366498024,siti.santoso@email.com,Laki-laki,Karyawan Swasta
+1670,Siti Lestari,1975-09-08,Jl. Pahlawan No. 89 Bandung,08789754121,siti.lestari@email.com,Laki-laki,Akuntan
+1671,Budi Kusuma,1972-11-07,Jl. Pahlawan No. 98 Semarang,08955700866,budi.kusuma@email.com,Perempuan,Wiraswasta
+1672,Budi Hidayat,1999-05-17,Jl. Merdeka No. 51 Jakarta,08940071857,budi.hidayat@email.com,Perempuan,Dokter
+1673,Ani Nurhayati,1983-01-09,Jl. Pahlawan No. 77 Bandung,08933257646,ani.nurhayati@email.com,Laki-laki,Pengacara
+1674,Dewi Hidayat,1973-03-07,Jl. Gatot Subroto No. 2 Surabaya,08263449083,dewi.hidayat@email.com,Laki-laki,Dokter
+1675,Budi Hidayat,1999-03-24,Jl. Pahlawan No. 32 Surabaya,08980760130,budi.hidayat@email.com,Laki-laki,Karyawan Swasta
+1676,Rina Santoso,1998-10-17,Jl. Pahlawan No. 94 Bandung,08480552355,rina.santoso@email.com,Laki-laki,Pegawai Negeri
+1677,Dewi Nurhayati,2000-03-07,Jl. Merdeka No. 20 Surabaya,08981902923,dewi.nurhayati@email.com,Laki-laki,Akuntan
+1678,Joko Santoso,1982-03-08,Jl. Diponegoro No. 9 Jakarta,08669453218,joko.santoso@email.com,Laki-laki,Insinyur
+1679,Budi Lestari,1982-11-04,Jl. Diponegoro No. 5 Semarang,08377279925,budi.lestari@email.com,Laki-laki,Pengacara
+1680,Ahmad Saputra,2000-05-11,Jl. Gatot Subroto No. 45 Bandung,08623123509,ahmad.saputra@email.com,Perempuan,Guru
+1681,Rudi Hidayat,1988-06-19,Jl. Diponegoro No. 2 Yogyakarta,08084957415,rudi.hidayat@email.com,Perempuan,Pegawai Negeri
+1682,Rina Kusuma,1976-08-25,Jl. Merdeka No. 76 Bandung,08732215602,rina.kusuma@email.com,Perempuan,Pengacara
+1683,Ani Lestari,1999-09-21,Jl. Diponegoro No. 51 Yogyakarta,08538792004,ani.lestari@email.com,Laki-laki,Pengacara
+1684,Rina Kusuma,1984-07-08,Jl. Merdeka No. 39 Surabaya,08720587316,rina.kusuma@email.com,Perempuan,Wiraswasta
+1685,Siti Lestari,1974-10-27,Jl. Sudirman No. 2 Yogyakarta,08006290224,siti.lestari@email.com,Laki-laki,Pengacara
+1686,Joko Hidayat,1972-12-23,Jl. Merdeka No. 10 Surabaya,08372852569,joko.hidayat@email.com,Laki-laki,Guru
+1687,Siti Wijaya,1973-10-28,Jl. Diponegoro No. 39 Jakarta,08208352842,siti.wijaya@email.com,Perempuan,Akuntan
+1688,Ani Kusuma,1987-02-24,Jl. Sudirman No. 93 Semarang,08196596098,ani.kusuma@email.com,Perempuan,Guru
+1689,Siti Saputra,1987-03-14,Jl. Pahlawan No. 88 Yogyakarta,08894222102,siti.saputra@email.com,Laki-laki,Dokter
+1690,Siti Nurhayati,1974-04-10,Jl. Gatot Subroto No. 57 Jakarta,08936016667,siti.nurhayati@email.com,Perempuan,Karyawan Swasta
+1691,Ahmad Santoso,1976-10-01,Jl. Gatot Subroto No. 54 Surabaya,08060840651,ahmad.santoso@email.com,Perempuan,Akuntan
+1692,Budi Santoso,1974-04-28,Jl. Gatot Subroto No. 69 Yogyakarta,08645682498,budi.santoso@email.com,Perempuan,Pegawai Negeri
+1693,Siti Lestari,1972-10-10,Jl. Pahlawan No. 57 Jakarta,08216842864,siti.lestari@email.com,Laki-laki,Wiraswasta
+1694,Siti Kusuma,1997-10-23,Jl. Pahlawan No. 39 Bandung,08903277997,siti.kusuma@email.com,Perempuan,Pegawai Negeri
+1695,Budi Wijaya,1971-02-18,Jl. Merdeka No. 83 Yogyakarta,08266327172,budi.wijaya@email.com,Perempuan,Dokter
+1696,Siti Kusuma,1992-09-11,Jl. Merdeka No. 57 Surabaya,08470693737,siti.kusuma@email.com,Perempuan,Insinyur
+1697,Joko Hidayat,1973-08-22,Jl. Gatot Subroto No. 63 Yogyakarta,08188689040,joko.hidayat@email.com,Perempuan,Akuntan
+1698,Ani Wijaya,1973-01-02,Jl. Pahlawan No. 81 Surabaya,08964724351,ani.wijaya@email.com,Laki-laki,Insinyur
+1699,Dewi Hidayat,1970-04-10,Jl. Merdeka No. 55 Bandung,08028182998,dewi.hidayat@email.com,Laki-laki,Akuntan
+1700,Budi Nurhayati,1996-11-17,Jl. Gatot Subroto No. 21 Surabaya,08247455707,budi.nurhayati@email.com,Laki-laki,Wiraswasta
+1701,Ani Santoso,1976-09-23,Jl. Diponegoro No. 37 Bandung,08705355065,ani.santoso@email.com,Laki-laki,Akuntan
+1702,Budi Hidayat,1974-01-23,Jl. Sudirman No. 52 Bandung,08751076137,budi.hidayat@email.com,Perempuan,Insinyur
+1703,Rina Lestari,1982-03-12,Jl. Pahlawan No. 69 Yogyakarta,08317815110,rina.lestari@email.com,Laki-laki,Dokter
+1704,Ahmad Saputra,1979-05-23,Jl. Merdeka No. 73 Jakarta,08120435481,ahmad.saputra@email.com,Laki-laki,Insinyur
+1705,Dewi Saputra,1982-09-15,Jl. Sudirman No. 98 Bandung,08212073475,dewi.saputra@email.com,Laki-laki,Pegawai Negeri
+1706,Ahmad Hidayat,1977-04-02,Jl. Diponegoro No. 62 Semarang,08148099554,ahmad.hidayat@email.com,Laki-laki,Dokter
+1707,Ahmad Lestari,1997-03-08,Jl. Gatot Subroto No. 30 Surabaya,08471789233,ahmad.lestari@email.com,Perempuan,Wiraswasta
+1708,Rina Wijaya,1979-03-05,Jl. Sudirman No. 36 Semarang,08636440508,rina.wijaya@email.com,Laki-laki,Insinyur
+1709,Ahmad Hidayat,1989-11-03,Jl. Sudirman No. 38 Semarang,08536036887,ahmad.hidayat@email.com,Perempuan,Akuntan
+1710,Siti Saputra,1978-04-21,Jl. Diponegoro No. 97 Surabaya,08820853850,siti.saputra@email.com,Laki-laki,Dokter
+1711,Joko Lestari,1987-10-21,Jl. Sudirman No. 85 Yogyakarta,08925118960,joko.lestari@email.com,Perempuan,Guru
+1712,Dewi Nurhayati,1997-10-08,Jl. Sudirman No. 80 Semarang,08190676137,dewi.nurhayati@email.com,Laki-laki,Pegawai Negeri
+1713,Ahmad Saputra,1990-03-02,Jl. Pahlawan No. 15 Jakarta,08879788647,ahmad.saputra@email.com,Perempuan,Guru
+1714,Rina Lestari,1970-05-09,Jl. Pahlawan No. 50 Surabaya,08418431016,rina.lestari@email.com,Perempuan,Karyawan Swasta
+1715,Dewi Santoso,1980-06-02,Jl. Merdeka No. 41 Surabaya,08155995758,dewi.santoso@email.com,Laki-laki,Wiraswasta
+1716,Rudi Saputra,1973-04-05,Jl. Diponegoro No. 55 Jakarta,08510785219,rudi.saputra@email.com,Perempuan,Karyawan Swasta
+1717,Budi Saputra,1984-11-30,Jl. Merdeka No. 83 Jakarta,08146862848,budi.saputra@email.com,Perempuan,Wiraswasta
+1718,Ani Kusuma,1984-11-05,Jl. Gatot Subroto No. 52 Yogyakarta,08507838402,ani.kusuma@email.com,Perempuan,Insinyur
+1719,Ani Kusuma,1984-12-25,Jl. Merdeka No. 20 Yogyakarta,08598399957,ani.kusuma@email.com,Perempuan,Karyawan Swasta
+1720,Siti Lestari,1988-08-28,Jl. Pahlawan No. 35 Bandung,08576312862,siti.lestari@email.com,Perempuan,Wiraswasta
+1721,Ani Hidayat,1979-05-01,Jl. Diponegoro No. 87 Jakarta,08951226069,ani.hidayat@email.com,Perempuan,Guru
+1722,Siti Kusuma,1982-09-21,Jl. Pahlawan No. 36 Semarang,08031991607,siti.kusuma@email.com,Perempuan,Guru
+1723,Joko Lestari,1977-02-18,Jl. Gatot Subroto No. 83 Yogyakarta,08969555337,joko.lestari@email.com,Perempuan,Akuntan
+1724,Joko Hidayat,1975-04-03,Jl. Sudirman No. 19 Yogyakarta,08763000738,joko.hidayat@email.com,Perempuan,Guru
+1725,Budi Santoso,1982-02-15,Jl. Merdeka No. 51 Semarang,08729367573,budi.santoso@email.com,Perempuan,Pegawai Negeri
+1726,Joko Hidayat,1976-06-29,Jl. Gatot Subroto No. 89 Semarang,08121547962,joko.hidayat@email.com,Laki-laki,Dokter
+1727,Siti Saputra,1980-03-05,Jl. Sudirman No. 53 Surabaya,08118090592,siti.saputra@email.com,Perempuan,Guru
+1728,Rudi Nurhayati,1971-12-10,Jl. Sudirman No. 18 Bandung,08091916769,rudi.nurhayati@email.com,Laki-laki,Dokter
+1729,Siti Kusuma,1979-09-23,Jl. Gatot Subroto No. 50 Yogyakarta,08820885450,siti.kusuma@email.com,Laki-laki,Pegawai Negeri
+1730,Rudi Hidayat,1983-02-24,Jl. Merdeka No. 71 Bandung,08850699337,rudi.hidayat@email.com,Perempuan,Pegawai Negeri
+1731,Budi Hidayat,1975-03-18,Jl. Merdeka No. 17 Bandung,08584548830,budi.hidayat@email.com,Laki-laki,Wiraswasta
+1732,Joko Hidayat,1976-05-08,Jl. Diponegoro No. 39 Semarang,08060173330,joko.hidayat@email.com,Laki-laki,Akuntan
+1733,Dewi Santoso,1973-06-18,Jl. Diponegoro No. 92 Yogyakarta,08696472698,dewi.santoso@email.com,Laki-laki,Karyawan Swasta
+1734,Dewi Kusuma,1988-09-17,Jl. Gatot Subroto No. 91 Surabaya,08981236797,dewi.kusuma@email.com,Laki-laki,Pegawai Negeri
+1735,Joko Santoso,1991-10-03,Jl. Pahlawan No. 55 Surabaya,08375852187,joko.santoso@email.com,Laki-laki,Wiraswasta
+1736,Budi Wijaya,1977-02-22,Jl. Sudirman No. 72 Surabaya,08814635415,budi.wijaya@email.com,Perempuan,Insinyur
+1737,Siti Santoso,1971-03-14,Jl. Sudirman No. 35 Surabaya,08181192749,siti.santoso@email.com,Perempuan,Pengacara
+1738,Ahmad Kusuma,1972-12-07,Jl. Diponegoro No. 95 Semarang,08303774275,ahmad.kusuma@email.com,Laki-laki,Pegawai Negeri
+1739,Rina Santoso,1973-01-14,Jl. Merdeka No. 14 Surabaya,08939690137,rina.santoso@email.com,Perempuan,Dokter
+1740,Siti Saputra,1977-09-02,Jl. Merdeka No. 12 Yogyakarta,08704105561,siti.saputra@email.com,Perempuan,Karyawan Swasta
+1741,Rina Wijaya,1994-08-08,Jl. Diponegoro No. 78 Jakarta,08989213754,rina.wijaya@email.com,Laki-laki,Pegawai Negeri
+1742,Budi Santoso,1984-10-09,Jl. Diponegoro No. 13 Bandung,08559801992,budi.santoso@email.com,Perempuan,Pengacara
+1743,Rina Wijaya,1988-06-13,Jl. Diponegoro No. 76 Semarang,08794670552,rina.wijaya@email.com,Perempuan,Guru
+1744,Rudi Nurhayati,1974-09-24,Jl. Sudirman No. 15 Semarang,08366245638,rudi.nurhayati@email.com,Laki-laki,Pengacara
+1745,Budi Santoso,1991-08-09,Jl. Gatot Subroto No. 43 Jakarta,08468114057,budi.santoso@email.com,Perempuan,Karyawan Swasta
+1746,Budi Kusuma,1987-12-17,Jl. Diponegoro No. 7 Yogyakarta,08121368276,budi.kusuma@email.com,Laki-laki,Pegawai Negeri
+1747,Rina Santoso,1977-11-24,Jl. Merdeka No. 93 Yogyakarta,08120138078,rina.santoso@email.com,Laki-laki,Guru
+1748,Rina Hidayat,1975-06-04,Jl. Sudirman No. 20 Yogyakarta,08222938846,rina.hidayat@email.com,Perempuan,Pegawai Negeri
+1749,Joko Kusuma,1994-11-27,Jl. Gatot Subroto No. 2 Jakarta,08978994505,joko.kusuma@email.com,Perempuan,Karyawan Swasta
+1750,Ahmad Kusuma,1970-10-28,Jl. Sudirman No. 98 Yogyakarta,08637728217,ahmad.kusuma@email.com,Perempuan,Akuntan
+1751,Rina Nurhayati,1994-10-12,Jl. Pahlawan No. 36 Jakarta,08914633545,rina.nurhayati@email.com,Laki-laki,Insinyur
+1752,Joko Kusuma,1983-09-20,Jl. Pahlawan No. 47 Jakarta,08950541421,joko.kusuma@email.com,Perempuan,Pegawai Negeri
+1753,Rudi Kusuma,1973-04-21,Jl. Pahlawan No. 22 Bandung,08050227185,rudi.kusuma@email.com,Laki-laki,Pengacara
+1754,Joko Hidayat,1990-10-17,Jl. Sudirman No. 51 Bandung,08526744707,joko.hidayat@email.com,Perempuan,Guru
+1755,Ahmad Nurhayati,1986-03-12,Jl. Pahlawan No. 69 Bandung,08557385446,ahmad.nurhayati@email.com,Perempuan,Dokter
+1756,Rina Hidayat,1997-08-13,Jl. Sudirman No. 81 Yogyakarta,08713257497,rina.hidayat@email.com,Laki-laki,Dokter
+1757,Dewi Nurhayati,1973-10-28,Jl. Pahlawan No. 71 Surabaya,08706059090,dewi.nurhayati@email.com,Perempuan,Insinyur
+1758,Ahmad Nurhayati,1970-12-02,Jl. Pahlawan No. 60 Yogyakarta,08763643772,ahmad.nurhayati@email.com,Laki-laki,Insinyur
+1759,Rudi Saputra,1970-02-13,Jl. Pahlawan No. 37 Yogyakarta,08962749634,rudi.saputra@email.com,Laki-laki,Pegawai Negeri
+1760,Siti Saputra,1971-01-10,Jl. Sudirman No. 81 Surabaya,08415400945,siti.saputra@email.com,Perempuan,Pegawai Negeri
+1761,Siti Nurhayati,2000-02-04,Jl. Sudirman No. 28 Semarang,08386445065,siti.nurhayati@email.com,Perempuan,Pengacara
+1762,Dewi Lestari,1972-12-10,Jl. Gatot Subroto No. 84 Jakarta,08947893805,dewi.lestari@email.com,Laki-laki,Akuntan
+1763,Ani Wijaya,1993-08-21,Jl. Diponegoro No. 97 Bandung,08153032730,ani.wijaya@email.com,Perempuan,Pengacara
+1764,Ahmad Hidayat,1974-11-20,Jl. Pahlawan No. 12 Semarang,08870954906,ahmad.hidayat@email.com,Laki-laki,Pengacara
+1765,Budi Lestari,1984-03-13,Jl. Merdeka No. 53 Jakarta,08088787089,budi.lestari@email.com,Perempuan,Guru
+1766,Ahmad Santoso,1995-04-18,Jl. Gatot Subroto No. 4 Jakarta,08084693024,ahmad.santoso@email.com,Laki-laki,Insinyur
+1767,Rina Kusuma,1980-02-13,Jl. Diponegoro No. 58 Jakarta,08934269292,rina.kusuma@email.com,Laki-laki,Akuntan
+1768,Rina Saputra,1975-03-11,Jl. Diponegoro No. 62 Jakarta,08576229020,rina.saputra@email.com,Perempuan,Pengacara
+1769,Joko Lestari,1970-01-01,Jl. Diponegoro No. 6 Jakarta,08268216987,joko.lestari@email.com,Laki-laki,Karyawan Swasta
+1770,Siti Saputra,1985-01-14,Jl. Gatot Subroto No. 29 Surabaya,08682226497,siti.saputra@email.com,Laki-laki,Insinyur
+1771,Budi Nurhayati,1992-07-20,Jl. Gatot Subroto No. 2 Semarang,08039106937,budi.nurhayati@email.com,Laki-laki,Karyawan Swasta
+1772,Rina Kusuma,1990-12-26,Jl. Sudirman No. 22 Semarang,08106699466,rina.kusuma@email.com,Laki-laki,Dokter
+1773,Rudi Santoso,1990-09-30,Jl. Pahlawan No. 83 Yogyakarta,08083292394,rudi.santoso@email.com,Laki-laki,Akuntan
+1774,Joko Hidayat,1975-03-11,Jl. Pahlawan No. 91 Yogyakarta,08433443710,joko.hidayat@email.com,Perempuan,Insinyur
+1775,Dewi Hidayat,1981-12-12,Jl. Merdeka No. 20 Bandung,08547613646,dewi.hidayat@email.com,Laki-laki,Insinyur
+1776,Budi Saputra,1977-11-01,Jl. Gatot Subroto No. 36 Surabaya,08834026624,budi.saputra@email.com,Laki-laki,Karyawan Swasta
+1777,Budi Wijaya,1985-01-07,Jl. Merdeka No. 3 Yogyakarta,08833887856,budi.wijaya@email.com,Laki-laki,Dokter
+1778,Joko Santoso,1971-04-13,Jl. Gatot Subroto No. 56 Yogyakarta,08918295702,joko.santoso@email.com,Perempuan,Akuntan
+1779,Ahmad Lestari,1976-05-03,Jl. Merdeka No. 8 Jakarta,08661275887,ahmad.lestari@email.com,Laki-laki,Pegawai Negeri
+1780,Dewi Nurhayati,1995-11-26,Jl. Merdeka No. 99 Yogyakarta,08425603930,dewi.nurhayati@email.com,Laki-laki,Pegawai Negeri
+1781,Rina Nurhayati,1994-01-05,Jl. Merdeka No. 69 Jakarta,08897825851,rina.nurhayati@email.com,Laki-laki,Pegawai Negeri
+1782,Budi Wijaya,1974-07-13,Jl. Gatot Subroto No. 29 Bandung,08128266121,budi.wijaya@email.com,Perempuan,Dokter
+1783,Joko Saputra,1973-12-19,Jl. Merdeka No. 68 Surabaya,08012554968,joko.saputra@email.com,Laki-laki,Pegawai Negeri
+1784,Budi Lestari,1986-10-17,Jl. Merdeka No. 95 Jakarta,08022141748,budi.lestari@email.com,Laki-laki,Akuntan
+1785,Rudi Santoso,1999-06-12,Jl. Sudirman No. 74 Bandung,08286730856,rudi.santoso@email.com,Laki-laki,Insinyur
+1786,Rudi Wijaya,1980-11-18,Jl. Diponegoro No. 88 Jakarta,08489749324,rudi.wijaya@email.com,Laki-laki,Pengacara
+1787,Ahmad Santoso,1979-01-04,Jl. Diponegoro No. 34 Surabaya,08978792932,ahmad.santoso@email.com,Laki-laki,Insinyur
+1788,Ani Kusuma,1979-06-12,Jl. Pahlawan No. 4 Yogyakarta,08725501564,ani.kusuma@email.com,Laki-laki,Wiraswasta
+1789,Budi Santoso,1990-02-04,Jl. Gatot Subroto No. 100 Surabaya,08226066741,budi.santoso@email.com,Laki-laki,Guru
+1790,Dewi Saputra,1972-01-22,Jl. Gatot Subroto No. 50 Bandung,08250284027,dewi.saputra@email.com,Laki-laki,Insinyur
+1791,Rudi Hidayat,1997-05-05,Jl. Gatot Subroto No. 81 Semarang,08287628141,rudi.hidayat@email.com,Laki-laki,Karyawan Swasta
+1792,Siti Hidayat,1999-11-21,Jl. Merdeka No. 55 Bandung,08301231657,siti.hidayat@email.com,Perempuan,Akuntan
+1793,Dewi Lestari,1998-08-21,Jl. Merdeka No. 28 Jakarta,08047437366,dewi.lestari@email.com,Laki-laki,Dokter
+1794,Siti Kusuma,1984-07-13,Jl. Diponegoro No. 87 Jakarta,08558069378,siti.kusuma@email.com,Laki-laki,Insinyur
+1795,Joko Wijaya,1999-05-21,Jl. Merdeka No. 86 Yogyakarta,08680385713,joko.wijaya@email.com,Laki-laki,Dokter
+1796,Budi Santoso,1976-06-16,Jl. Gatot Subroto No. 71 Surabaya,08241535342,budi.santoso@email.com,Perempuan,Wiraswasta
+1797,Joko Nurhayati,1984-12-15,Jl. Diponegoro No. 91 Bandung,08270254191,joko.nurhayati@email.com,Perempuan,Karyawan Swasta
+1798,Budi Saputra,1970-12-28,Jl. Gatot Subroto No. 36 Jakarta,08098696600,budi.saputra@email.com,Perempuan,Pegawai Negeri
+1799,Joko Kusuma,1989-11-25,Jl. Pahlawan No. 15 Yogyakarta,08999282473,joko.kusuma@email.com,Perempuan,Pegawai Negeri
+1800,Siti Wijaya,1992-09-02,Jl. Gatot Subroto No. 5 Bandung,08282971734,siti.wijaya@email.com,Perempuan,Akuntan
+1801,Siti Kusuma,1998-10-09,Jl. Diponegoro No. 74 Jakarta,08196192902,siti.kusuma@email.com,Perempuan,Pegawai Negeri
+1802,Rudi Lestari,1995-05-16,Jl. Gatot Subroto No. 11 Jakarta,08614711775,rudi.lestari@email.com,Perempuan,Pengacara
+1803,Rudi Lestari,1973-12-28,Jl. Merdeka No. 67 Bandung,08898231045,rudi.lestari@email.com,Laki-laki,Pegawai Negeri
+1804,Dewi Hidayat,1994-07-23,Jl. Merdeka No. 78 Jakarta,08696096140,dewi.hidayat@email.com,Perempuan,Pegawai Negeri
+1805,Budi Lestari,1996-05-30,Jl. Merdeka No. 70 Jakarta,08927007755,budi.lestari@email.com,Laki-laki,Karyawan Swasta
+1806,Ani Nurhayati,1989-10-03,Jl. Diponegoro No. 86 Semarang,08706009290,ani.nurhayati@email.com,Laki-laki,Insinyur
+1807,Rudi Kusuma,1990-01-23,Jl. Pahlawan No. 51 Jakarta,08794831533,rudi.kusuma@email.com,Laki-laki,Pengacara
+1808,Budi Santoso,1992-12-20,Jl. Gatot Subroto No. 2 Bandung,08770906915,budi.santoso@email.com,Perempuan,Pegawai Negeri
+1809,Rudi Wijaya,1989-12-23,Jl. Diponegoro No. 28 Semarang,08445272016,rudi.wijaya@email.com,Laki-laki,Guru
+1810,Rina Santoso,1989-06-21,Jl. Sudirman No. 43 Jakarta,08823649818,rina.santoso@email.com,Perempuan,Akuntan
+1811,Siti Wijaya,1980-06-22,Jl. Pahlawan No. 29 Yogyakarta,08029468516,siti.wijaya@email.com,Perempuan,Guru
+1812,Ahmad Nurhayati,1984-07-21,Jl. Merdeka No. 48 Semarang,08251042315,ahmad.nurhayati@email.com,Laki-laki,Guru
+1813,Ahmad Hidayat,1995-12-05,Jl. Sudirman No. 99 Bandung,08658296145,ahmad.hidayat@email.com,Laki-laki,Insinyur
+1814,Ani Saputra,1975-07-08,Jl. Gatot Subroto No. 38 Bandung,08470162876,ani.saputra@email.com,Perempuan,Pegawai Negeri
+1815,Siti Saputra,1997-06-12,Jl. Gatot Subroto No. 58 Bandung,08185357163,siti.saputra@email.com,Perempuan,Pengacara
+1816,Rina Wijaya,1973-07-28,Jl. Gatot Subroto No. 89 Semarang,08734608465,rina.wijaya@email.com,Laki-laki,Insinyur
+1817,Budi Hidayat,1988-08-08,Jl. Merdeka No. 68 Surabaya,08636371248,budi.hidayat@email.com,Perempuan,Akuntan
+1818,Ahmad Santoso,1973-06-13,Jl. Diponegoro No. 51 Semarang,08614430147,ahmad.santoso@email.com,Laki-laki,Dokter
+1819,Ani Hidayat,1990-01-28,Jl. Diponegoro No. 83 Bandung,08010436532,ani.hidayat@email.com,Perempuan,Guru
+1820,Ahmad Lestari,1983-12-21,Jl. Merdeka No. 55 Surabaya,08417608445,ahmad.lestari@email.com,Laki-laki,Dokter
+1821,Dewi Kusuma,1988-11-27,Jl. Gatot Subroto No. 37 Jakarta,08569062837,dewi.kusuma@email.com,Laki-laki,Guru
+1822,Ahmad Lestari,1985-10-08,Jl. Merdeka No. 13 Semarang,08274587438,ahmad.lestari@email.com,Laki-laki,Akuntan
+1823,Budi Kusuma,1994-08-01,Jl. Diponegoro No. 24 Surabaya,08936569413,budi.kusuma@email.com,Laki-laki,Pegawai Negeri
+1824,Joko Wijaya,1989-02-14,Jl. Merdeka No. 84 Bandung,08912863060,joko.wijaya@email.com,Laki-laki,Dokter
+1825,Joko Lestari,1994-11-22,Jl. Sudirman No. 12 Bandung,08022510962,joko.lestari@email.com,Laki-laki,Pegawai Negeri
+1826,Budi Nurhayati,1972-11-09,Jl. Gatot Subroto No. 1 Semarang,08897115954,budi.nurhayati@email.com,Laki-laki,Pengacara
+1827,Dewi Lestari,1988-04-03,Jl. Merdeka No. 65 Yogyakarta,08641038906,dewi.lestari@email.com,Laki-laki,Insinyur
+1828,Rudi Saputra,1972-04-17,Jl. Diponegoro No. 59 Bandung,08345540584,rudi.saputra@email.com,Laki-laki,Pegawai Negeri
+1829,Rudi Santoso,1992-12-09,Jl. Diponegoro No. 8 Bandung,08359166669,rudi.santoso@email.com,Perempuan,Karyawan Swasta
+1830,Rina Lestari,1988-07-01,Jl. Merdeka No. 18 Surabaya,08048948421,rina.lestari@email.com,Perempuan,Insinyur
+1831,Rina Hidayat,1986-01-03,Jl. Sudirman No. 11 Semarang,08004810830,rina.hidayat@email.com,Laki-laki,Akuntan
+1832,Ahmad Saputra,1984-04-17,Jl. Merdeka No. 36 Bandung,08178137333,ahmad.saputra@email.com,Laki-laki,Karyawan Swasta
+1833,Budi Lestari,1974-10-30,Jl. Sudirman No. 32 Bandung,08539175519,budi.lestari@email.com,Perempuan,Wiraswasta
+1834,Ani Hidayat,1993-12-29,Jl. Gatot Subroto No. 87 Surabaya,08965152815,ani.hidayat@email.com,Perempuan,Dokter
+1835,Budi Hidayat,1976-12-06,Jl. Diponegoro No. 85 Bandung,08873420611,budi.hidayat@email.com,Perempuan,Pegawai Negeri
+1836,Joko Nurhayati,1977-11-02,Jl. Diponegoro No. 47 Jakarta,08189519902,joko.nurhayati@email.com,Laki-laki,Karyawan Swasta
+1837,Rudi Santoso,1984-10-25,Jl. Gatot Subroto No. 7 Bandung,08384688318,rudi.santoso@email.com,Perempuan,Guru
+1838,Dewi Wijaya,1970-06-13,Jl. Diponegoro No. 24 Jakarta,08062471480,dewi.wijaya@email.com,Laki-laki,Insinyur
+1839,Ani Hidayat,1995-01-21,Jl. Diponegoro No. 100 Yogyakarta,08447312899,ani.hidayat@email.com,Laki-laki,Wiraswasta
+1840,Budi Hidayat,1979-02-12,Jl. Diponegoro No. 59 Yogyakarta,08304166452,budi.hidayat@email.com,Perempuan,Dokter
+1841,Dewi Lestari,1979-05-07,Jl. Merdeka No. 16 Surabaya,08475030804,dewi.lestari@email.com,Laki-laki,Wiraswasta
+1842,Budi Nurhayati,1993-07-15,Jl. Gatot Subroto No. 54 Surabaya,08870828609,budi.nurhayati@email.com,Perempuan,Pegawai Negeri
+1843,Dewi Kusuma,1994-09-15,Jl. Sudirman No. 89 Jakarta,08919718907,dewi.kusuma@email.com,Perempuan,Pengacara
+1844,Rina Kusuma,1989-04-02,Jl. Diponegoro No. 86 Semarang,08540423236,rina.kusuma@email.com,Perempuan,Pengacara
+1845,Siti Hidayat,1997-05-10,Jl. Pahlawan No. 27 Yogyakarta,08888017973,siti.hidayat@email.com,Laki-laki,Insinyur
+1846,Ani Saputra,1989-10-14,Jl. Pahlawan No. 12 Bandung,08628102902,ani.saputra@email.com,Perempuan,Akuntan
+1847,Siti Kusuma,1983-10-20,Jl. Gatot Subroto No. 9 Semarang,08723983600,siti.kusuma@email.com,Perempuan,Wiraswasta
+1848,Rina Saputra,1979-03-10,Jl. Merdeka No. 7 Yogyakarta,08505471096,rina.saputra@email.com,Laki-laki,Insinyur
+1849,Joko Saputra,1981-12-25,Jl. Pahlawan No. 62 Bandung,08528535477,joko.saputra@email.com,Perempuan,Pegawai Negeri
+1850,Budi Hidayat,1996-05-07,Jl. Sudirman No. 87 Jakarta,08368843858,budi.hidayat@email.com,Perempuan,Akuntan
+1851,Rina Lestari,1982-09-11,Jl. Pahlawan No. 46 Jakarta,08116746408,rina.lestari@email.com,Perempuan,Karyawan Swasta
+1852,Rina Saputra,1999-12-24,Jl. Sudirman No. 38 Bandung,08363634945,rina.saputra@email.com,Perempuan,Pegawai Negeri
+1853,Rudi Lestari,1970-10-08,Jl. Pahlawan No. 26 Bandung,08182284895,rudi.lestari@email.com,Laki-laki,Akuntan
+1854,Joko Kusuma,1980-08-15,Jl. Merdeka No. 73 Semarang,08694854482,joko.kusuma@email.com,Perempuan,Pegawai Negeri
+1855,Siti Nurhayati,1993-05-21,Jl. Pahlawan No. 86 Bandung,08029558308,siti.nurhayati@email.com,Perempuan,Wiraswasta
+1856,Joko Kusuma,1994-09-11,Jl. Diponegoro No. 24 Surabaya,08860711220,joko.kusuma@email.com,Laki-laki,Akuntan
+1857,Rudi Santoso,1982-10-25,Jl. Gatot Subroto No. 73 Surabaya,08896066398,rudi.santoso@email.com,Laki-laki,Wiraswasta
+1858,Joko Saputra,1990-03-20,Jl. Gatot Subroto No. 25 Surabaya,08897370012,joko.saputra@email.com,Perempuan,Wiraswasta
+1859,Rina Lestari,1998-06-24,Jl. Gatot Subroto No. 54 Semarang,08805643379,rina.lestari@email.com,Laki-laki,Pengacara
+1860,Budi Lestari,1994-02-21,Jl. Diponegoro No. 98 Yogyakarta,08140289140,budi.lestari@email.com,Laki-laki,Karyawan Swasta
+1861,Ahmad Wijaya,1971-12-23,Jl. Sudirman No. 47 Yogyakarta,08815981835,ahmad.wijaya@email.com,Perempuan,Guru
+1862,Dewi Kusuma,1994-01-02,Jl. Sudirman No. 60 Yogyakarta,08468964001,dewi.kusuma@email.com,Laki-laki,Insinyur
+1863,Dewi Kusuma,1982-12-29,Jl. Merdeka No. 13 Surabaya,08398478034,dewi.kusuma@email.com,Perempuan,Pegawai Negeri
+1864,Ani Lestari,1989-04-04,Jl. Diponegoro No. 42 Surabaya,08598116985,ani.lestari@email.com,Laki-laki,Guru
+1865,Siti Wijaya,1993-01-26,Jl. Merdeka No. 87 Bandung,08317618669,siti.wijaya@email.com,Laki-laki,Wiraswasta
+1866,Rudi Santoso,1985-02-11,Jl. Gatot Subroto No. 48 Bandung,08110807095,rudi.santoso@email.com,Perempuan,Dokter
+1867,Budi Santoso,1979-12-12,Jl. Merdeka No. 1 Bandung,08469375671,budi.santoso@email.com,Laki-laki,Wiraswasta
+1868,Joko Kusuma,1989-08-04,Jl. Merdeka No. 18 Yogyakarta,08723298047,joko.kusuma@email.com,Laki-laki,Karyawan Swasta
+1869,Joko Saputra,1999-01-26,Jl. Sudirman No. 71 Jakarta,08918337366,joko.saputra@email.com,Perempuan,Pengacara
+1870,Joko Saputra,1971-09-29,Jl. Diponegoro No. 82 Surabaya,08683306015,joko.saputra@email.com,Perempuan,Insinyur
+1871,Rina Hidayat,1981-07-04,Jl. Merdeka No. 30 Jakarta,08946172408,rina.hidayat@email.com,Perempuan,Akuntan
+1872,Joko Santoso,2000-09-27,Jl. Pahlawan No. 2 Jakarta,08007610128,joko.santoso@email.com,Laki-laki,Pengacara
+1873,Rudi Santoso,1998-01-26,Jl. Pahlawan No. 74 Surabaya,08329240236,rudi.santoso@email.com,Perempuan,Insinyur
+1874,Rudi Lestari,1981-11-06,Jl. Diponegoro No. 86 Jakarta,08911220757,rudi.lestari@email.com,Perempuan,Pengacara
+1875,Budi Saputra,1997-04-16,Jl. Merdeka No. 3 Surabaya,08330975545,budi.saputra@email.com,Perempuan,Karyawan Swasta
+1876,Rudi Nurhayati,1983-09-16,Jl. Merdeka No. 95 Semarang,08815163568,rudi.nurhayati@email.com,Laki-laki,Akuntan
+1877,Joko Wijaya,1971-11-03,Jl. Gatot Subroto No. 40 Yogyakarta,08797155924,joko.wijaya@email.com,Laki-laki,Wiraswasta
+1878,Ani Wijaya,1997-04-05,Jl. Merdeka No. 21 Yogyakarta,08616727034,ani.wijaya@email.com,Laki-laki,Karyawan Swasta
+1879,Rina Hidayat,1982-06-28,Jl. Sudirman No. 49 Yogyakarta,08128058623,rina.hidayat@email.com,Laki-laki,Wiraswasta
+1880,Budi Kusuma,1974-09-28,Jl. Diponegoro No. 23 Semarang,08936721920,budi.kusuma@email.com,Laki-laki,Wiraswasta
+1881,Dewi Santoso,1998-02-11,Jl. Diponegoro No. 38 Bandung,08016099955,dewi.santoso@email.com,Perempuan,Pegawai Negeri
+1882,Rina Lestari,1990-05-20,Jl. Sudirman No. 80 Surabaya,08358743100,rina.lestari@email.com,Perempuan,Dokter
+1883,Rina Nurhayati,1995-02-06,Jl. Sudirman No. 74 Surabaya,08912703867,rina.nurhayati@email.com,Perempuan,Karyawan Swasta
+1884,Rina Hidayat,1984-04-05,Jl. Gatot Subroto No. 56 Semarang,08733385441,rina.hidayat@email.com,Laki-laki,Guru
+1885,Ahmad Saputra,1981-05-28,Jl. Gatot Subroto No. 63 Jakarta,08981915431,ahmad.saputra@email.com,Perempuan,Insinyur
+1886,Dewi Wijaya,1994-04-07,Jl. Sudirman No. 48 Bandung,08798744339,dewi.wijaya@email.com,Perempuan,Wiraswasta
+1887,Ani Santoso,1982-05-29,Jl. Gatot Subroto No. 76 Bandung,08476913189,ani.santoso@email.com,Laki-laki,Wiraswasta
+1888,Rudi Lestari,1985-04-17,Jl. Merdeka No. 87 Semarang,08269099758,rudi.lestari@email.com,Laki-laki,Insinyur
+1889,Dewi Lestari,1972-09-10,Jl. Sudirman No. 85 Jakarta,08187368945,dewi.lestari@email.com,Perempuan,Wiraswasta
+1890,Ahmad Kusuma,1977-11-01,Jl. Pahlawan No. 61 Yogyakarta,08239067128,ahmad.kusuma@email.com,Perempuan,Karyawan Swasta
+1891,Dewi Nurhayati,1984-03-16,Jl. Diponegoro No. 85 Yogyakarta,08304075027,dewi.nurhayati@email.com,Laki-laki,Pengacara
+1892,Rudi Kusuma,1980-10-18,Jl. Pahlawan No. 12 Bandung,08884301437,rudi.kusuma@email.com,Perempuan,Dokter
+1893,Dewi Saputra,1980-09-04,Jl. Gatot Subroto No. 13 Semarang,08545877864,dewi.saputra@email.com,Laki-laki,Guru
+1894,Dewi Lestari,1991-04-25,Jl. Pahlawan No. 9 Jakarta,08782107108,dewi.lestari@email.com,Perempuan,Karyawan Swasta
+1895,Joko Saputra,2000-03-23,Jl. Merdeka No. 92 Semarang,08746661706,joko.saputra@email.com,Perempuan,Akuntan
+1896,Rina Lestari,1988-04-18,Jl. Merdeka No. 16 Yogyakarta,08791725211,rina.lestari@email.com,Perempuan,Guru
+1897,Dewi Kusuma,1972-06-12,Jl. Gatot Subroto No. 56 Jakarta,08512986308,dewi.kusuma@email.com,Perempuan,Guru
+1898,Rina Hidayat,1989-10-08,Jl. Merdeka No. 20 Bandung,08602722210,rina.hidayat@email.com,Laki-laki,Wiraswasta
+1899,Rudi Lestari,1970-10-30,Jl. Diponegoro No. 95 Surabaya,08208146504,rudi.lestari@email.com,Laki-laki,Wiraswasta
+1900,Ani Lestari,1972-02-26,Jl. Sudirman No. 8 Semarang,08859821436,ani.lestari@email.com,Laki-laki,Dokter
+1901,Siti Nurhayati,1987-01-14,Jl. Gatot Subroto No. 12 Yogyakarta,08737950263,siti.nurhayati@email.com,Laki-laki,Akuntan
+1902,Siti Lestari,1984-08-14,Jl. Pahlawan No. 69 Yogyakarta,08637883678,siti.lestari@email.com,Perempuan,Pengacara
+1903,Ahmad Hidayat,1977-11-25,Jl. Gatot Subroto No. 17 Semarang,08906333654,ahmad.hidayat@email.com,Perempuan,Wiraswasta
+1904,Ani Kusuma,1971-02-21,Jl. Diponegoro No. 76 Bandung,08762701473,ani.kusuma@email.com,Laki-laki,Dokter
+1905,Joko Saputra,1983-12-11,Jl. Diponegoro No. 8 Semarang,08069120270,joko.saputra@email.com,Laki-laki,Pegawai Negeri
+1906,Ani Saputra,1970-07-24,Jl. Gatot Subroto No. 25 Bandung,08652750064,ani.saputra@email.com,Perempuan,Pengacara
+1907,Ani Lestari,1980-03-13,Jl. Diponegoro No. 41 Yogyakarta,08231233582,ani.lestari@email.com,Laki-laki,Insinyur
+1908,Ani Santoso,1971-11-12,Jl. Gatot Subroto No. 44 Jakarta,08386306378,ani.santoso@email.com,Perempuan,Pegawai Negeri
+1909,Siti Wijaya,1994-08-09,Jl. Sudirman No. 31 Jakarta,08127887828,siti.wijaya@email.com,Perempuan,Dokter
+1910,Ahmad Saputra,1986-07-30,Jl. Gatot Subroto No. 4 Surabaya,08743977105,ahmad.saputra@email.com,Perempuan,Dokter
+1911,Siti Lestari,1996-02-28,Jl. Sudirman No. 69 Surabaya,08956258747,siti.lestari@email.com,Perempuan,Guru
+1912,Ani Lestari,1985-07-24,Jl. Merdeka No. 68 Yogyakarta,08741081288,ani.lestari@email.com,Laki-laki,Pegawai Negeri
+1913,Rudi Wijaya,1975-07-05,Jl. Sudirman No. 87 Surabaya,08370614895,rudi.wijaya@email.com,Perempuan,Pengacara
+1914,Siti Nurhayati,1971-07-06,Jl. Pahlawan No. 26 Bandung,08764489988,siti.nurhayati@email.com,Laki-laki,Akuntan
+1915,Siti Saputra,1994-12-05,Jl. Gatot Subroto No. 100 Jakarta,08988163388,siti.saputra@email.com,Perempuan,Pengacara
+1916,Siti Hidayat,1984-10-15,Jl. Gatot Subroto No. 70 Jakarta,08509105376,siti.hidayat@email.com,Perempuan,Wiraswasta
+1917,Budi Hidayat,1979-10-20,Jl. Pahlawan No. 93 Yogyakarta,08292165396,budi.hidayat@email.com,Perempuan,Dokter
+1918,Ani Saputra,1992-09-19,Jl. Diponegoro No. 40 Surabaya,08216133923,ani.saputra@email.com,Laki-laki,Dokter
+1919,Joko Kusuma,1985-09-26,Jl. Diponegoro No. 34 Yogyakarta,08989810759,joko.kusuma@email.com,Laki-laki,Akuntan
+1920,Ahmad Lestari,1986-08-26,Jl. Sudirman No. 68 Yogyakarta,08302483361,ahmad.lestari@email.com,Laki-laki,Pengacara
+1921,Joko Nurhayati,1985-10-04,Jl. Merdeka No. 63 Surabaya,08961847894,joko.nurhayati@email.com,Perempuan,Insinyur
+1922,Ani Nurhayati,2000-03-18,Jl. Gatot Subroto No. 68 Surabaya,08577455495,ani.nurhayati@email.com,Perempuan,Pegawai Negeri
+1923,Budi Kusuma,1985-10-09,Jl. Sudirman No. 95 Bandung,08592006523,budi.kusuma@email.com,Perempuan,Akuntan
+1924,Rudi Lestari,1993-06-03,Jl. Diponegoro No. 25 Jakarta,08017829921,rudi.lestari@email.com,Perempuan,Akuntan
+1925,Rina Santoso,1990-12-31,Jl. Diponegoro No. 80 Surabaya,08034922299,rina.santoso@email.com,Laki-laki,Insinyur
+1926,Rina Wijaya,1974-12-02,Jl. Pahlawan No. 64 Yogyakarta,08856093237,rina.wijaya@email.com,Perempuan,Wiraswasta
+1927,Budi Lestari,1987-02-22,Jl. Merdeka No. 90 Yogyakarta,08335791260,budi.lestari@email.com,Laki-laki,Akuntan
+1928,Siti Kusuma,1976-04-30,Jl. Gatot Subroto No. 24 Surabaya,08814573595,siti.kusuma@email.com,Perempuan,Akuntan
+1929,Joko Saputra,1973-06-04,Jl. Diponegoro No. 55 Yogyakarta,08429282493,joko.saputra@email.com,Laki-laki,Wiraswasta
+1930,Siti Kusuma,1975-01-18,Jl. Gatot Subroto No. 48 Jakarta,08144464395,siti.kusuma@email.com,Laki-laki,Karyawan Swasta
+1931,Rudi Saputra,1999-09-17,Jl. Sudirman No. 80 Semarang,08218979176,rudi.saputra@email.com,Laki-laki,Pegawai Negeri
+1932,Ani Saputra,1976-12-07,Jl. Sudirman No. 13 Jakarta,08023583129,ani.saputra@email.com,Perempuan,Karyawan Swasta
+1933,Ani Hidayat,1987-01-16,Jl. Diponegoro No. 60 Yogyakarta,08648230926,ani.hidayat@email.com,Perempuan,Insinyur
+1934,Siti Santoso,1999-06-08,Jl. Pahlawan No. 84 Yogyakarta,08558750790,siti.santoso@email.com,Perempuan,Karyawan Swasta
+1935,Dewi Lestari,1970-10-25,Jl. Gatot Subroto No. 90 Surabaya,08279847833,dewi.lestari@email.com,Perempuan,Dokter
+1936,Ahmad Kusuma,1970-11-19,Jl. Pahlawan No. 45 Surabaya,08252010576,ahmad.kusuma@email.com,Perempuan,Pegawai Negeri
+1937,Joko Kusuma,1981-09-09,Jl. Sudirman No. 48 Bandung,08126274850,joko.kusuma@email.com,Perempuan,Pegawai Negeri
+1938,Ahmad Santoso,1996-05-04,Jl. Gatot Subroto No. 86 Semarang,08875280630,ahmad.santoso@email.com,Laki-laki,Guru
+1939,Rina Lestari,1992-10-11,Jl. Gatot Subroto No. 19 Bandung,08919158590,rina.lestari@email.com,Laki-laki,Akuntan
+1940,Joko Saputra,1976-03-12,Jl. Diponegoro No. 52 Yogyakarta,08887975060,joko.saputra@email.com,Laki-laki,Guru
+1941,Budi Saputra,1984-09-18,Jl. Diponegoro No. 91 Surabaya,08001075083,budi.saputra@email.com,Perempuan,Wiraswasta
+1942,Ani Lestari,1979-10-10,Jl. Diponegoro No. 99 Jakarta,08081693727,ani.lestari@email.com,Laki-laki,Karyawan Swasta
+1943,Joko Santoso,1974-12-28,Jl. Merdeka No. 62 Yogyakarta,08673864299,joko.santoso@email.com,Perempuan,Akuntan
+1944,Rudi Lestari,1988-06-19,Jl. Pahlawan No. 19 Jakarta,08750795285,rudi.lestari@email.com,Laki-laki,Insinyur
+1945,Joko Wijaya,1978-05-10,Jl. Pahlawan No. 26 Bandung,08405509082,joko.wijaya@email.com,Laki-laki,Pegawai Negeri
+1946,Rudi Santoso,1979-02-06,Jl. Gatot Subroto No. 8 Bandung,08930077123,rudi.santoso@email.com,Laki-laki,Pegawai Negeri
+1947,Rudi Wijaya,1987-07-07,Jl. Pahlawan No. 84 Semarang,08661395534,rudi.wijaya@email.com,Perempuan,Insinyur
+1948,Siti Hidayat,1988-06-28,Jl. Merdeka No. 10 Bandung,08920007782,siti.hidayat@email.com,Perempuan,Pegawai Negeri
+1949,Budi Lestari,1980-11-24,Jl. Pahlawan No. 67 Yogyakarta,08462423133,budi.lestari@email.com,Laki-laki,Pegawai Negeri
+1950,Joko Kusuma,1987-10-21,Jl. Sudirman No. 13 Jakarta,08265952318,joko.kusuma@email.com,Laki-laki,Pegawai Negeri
+1951,Rina Nurhayati,1986-10-31,Jl. Sudirman No. 50 Semarang,08041797345,rina.nurhayati@email.com,Laki-laki,Wiraswasta
+1952,Rina Nurhayati,1985-10-07,Jl. Pahlawan No. 13 Jakarta,08267435596,rina.nurhayati@email.com,Perempuan,Guru
+1953,Siti Saputra,1978-05-08,Jl. Pahlawan No. 52 Semarang,08878500838,siti.saputra@email.com,Laki-laki,Pegawai Negeri
+1954,Dewi Santoso,1992-04-21,Jl. Merdeka No. 29 Yogyakarta,08718776593,dewi.santoso@email.com,Perempuan,Pegawai Negeri
+1955,Joko Santoso,1976-11-26,Jl. Gatot Subroto No. 16 Surabaya,08657261007,joko.santoso@email.com,Laki-laki,Dokter
+1956,Siti Lestari,1997-05-28,Jl. Merdeka No. 24 Semarang,08536348136,siti.lestari@email.com,Perempuan,Karyawan Swasta
+1957,Rudi Hidayat,1988-09-27,Jl. Gatot Subroto No. 19 Jakarta,08453460072,rudi.hidayat@email.com,Laki-laki,Karyawan Swasta
+1958,Rina Saputra,1997-01-23,Jl. Diponegoro No. 19 Yogyakarta,08357912855,rina.saputra@email.com,Laki-laki,Insinyur
+1959,Siti Nurhayati,1981-12-17,Jl. Pahlawan No. 53 Jakarta,08780670118,siti.nurhayati@email.com,Laki-laki,Dokter
+1960,Siti Wijaya,1996-01-29,Jl. Gatot Subroto No. 82 Surabaya,08380079854,siti.wijaya@email.com,Laki-laki,Akuntan
+1961,Siti Nurhayati,1988-12-21,Jl. Sudirman No. 60 Yogyakarta,08085141012,siti.nurhayati@email.com,Perempuan,Karyawan Swasta
+1962,Rudi Hidayat,1981-05-28,Jl. Sudirman No. 27 Yogyakarta,08550069376,rudi.hidayat@email.com,Perempuan,Pengacara
+1963,Rina Hidayat,1975-09-04,Jl. Diponegoro No. 9 Jakarta,08555110232,rina.hidayat@email.com,Laki-laki,Pegawai Negeri
+1964,Rudi Lestari,1971-06-29,Jl. Merdeka No. 5 Semarang,08880569628,rudi.lestari@email.com,Perempuan,Wiraswasta
+1965,Rina Wijaya,1994-07-04,Jl. Pahlawan No. 23 Yogyakarta,08797671434,rina.wijaya@email.com,Perempuan,Karyawan Swasta
+1966,Ahmad Wijaya,2000-04-02,Jl. Diponegoro No. 63 Yogyakarta,08865326214,ahmad.wijaya@email.com,Perempuan,Pegawai Negeri
+1967,Rina Wijaya,1979-11-03,Jl. Sudirman No. 83 Surabaya,08156739325,rina.wijaya@email.com,Laki-laki,Pegawai Negeri
+1968,Rina Wijaya,1972-01-02,Jl. Sudirman No. 95 Bandung,08874765193,rina.wijaya@email.com,Laki-laki,Dokter
+1969,Dewi Santoso,1998-05-29,Jl. Gatot Subroto No. 16 Jakarta,08992944373,dewi.santoso@email.com,Perempuan,Pegawai Negeri
+1970,Joko Hidayat,1970-08-10,Jl. Sudirman No. 64 Yogyakarta,08132677030,joko.hidayat@email.com,Laki-laki,Pegawai Negeri
+1971,Ahmad Kusuma,1999-02-15,Jl. Diponegoro No. 36 Surabaya,08073737053,ahmad.kusuma@email.com,Perempuan,Pegawai Negeri
+1972,Budi Santoso,1986-01-30,Jl. Gatot Subroto No. 25 Semarang,08758981370,budi.santoso@email.com,Laki-laki,Akuntan
+1973,Rina Hidayat,1998-01-18,Jl. Merdeka No. 77 Surabaya,08048782536,rina.hidayat@email.com,Laki-laki,Pengacara
+1974,Joko Saputra,1975-12-22,Jl. Pahlawan No. 76 Surabaya,08402774240,joko.saputra@email.com,Laki-laki,Dokter
+1975,Joko Kusuma,1984-03-28,Jl. Merdeka No. 8 Semarang,08114321626,joko.kusuma@email.com,Laki-laki,Dokter
+1976,Dewi Kusuma,1973-02-25,Jl. Diponegoro No. 46 Yogyakarta,08191541131,dewi.kusuma@email.com,Laki-laki,Dokter
+1977,Rudi Hidayat,1988-03-28,Jl. Pahlawan No. 62 Surabaya,08337273060,rudi.hidayat@email.com,Laki-laki,Pengacara
+1978,Siti Nurhayati,1982-11-21,Jl. Pahlawan No. 79 Yogyakarta,08138523836,siti.nurhayati@email.com,Perempuan,Guru
+1979,Joko Saputra,1981-11-08,Jl. Diponegoro No. 14 Surabaya,08625302692,joko.saputra@email.com,Perempuan,Guru
+1980,Siti Hidayat,1981-08-15,Jl. Pahlawan No. 78 Jakarta,08618015751,siti.hidayat@email.com,Perempuan,Wiraswasta
+1981,Dewi Nurhayati,2000-05-25,Jl. Sudirman No. 93 Bandung,08530755265,dewi.nurhayati@email.com,Laki-laki,Karyawan Swasta
+1982,Dewi Santoso,1988-08-27,Jl. Pahlawan No. 40 Surabaya,08425019123,dewi.santoso@email.com,Laki-laki,Pengacara
+1983,Dewi Santoso,1975-03-06,Jl. Sudirman No. 1 Jakarta,08421672848,dewi.santoso@email.com,Perempuan,Insinyur
+1984,Rudi Nurhayati,1970-07-13,Jl. Pahlawan No. 28 Surabaya,08511732142,rudi.nurhayati@email.com,Laki-laki,Insinyur
+1985,Rina Hidayat,1983-01-15,Jl. Pahlawan No. 77 Surabaya,08656104438,rina.hidayat@email.com,Laki-laki,Karyawan Swasta
+1986,Rudi Santoso,1970-06-28,Jl. Merdeka No. 2 Surabaya,08661828557,rudi.santoso@email.com,Perempuan,Pegawai Negeri
+1987,Siti Hidayat,1982-12-21,Jl. Diponegoro No. 95 Bandung,08070580334,siti.hidayat@email.com,Perempuan,Guru
+1988,Ani Kusuma,1993-05-06,Jl. Sudirman No. 100 Yogyakarta,08771794042,ani.kusuma@email.com,Perempuan,Insinyur
+1989,Budi Hidayat,1973-05-16,Jl. Sudirman No. 9 Yogyakarta,08028604260,budi.hidayat@email.com,Perempuan,Guru
+1990,Rina Kusuma,1991-02-08,Jl. Merdeka No. 95 Jakarta,08955281627,rina.kusuma@email.com,Laki-laki,Pegawai Negeri
+1991,Ahmad Nurhayati,1998-02-27,Jl. Gatot Subroto No. 71 Surabaya,08516113205,ahmad.nurhayati@email.com,Laki-laki,Pegawai Negeri
+1992,Dewi Kusuma,1994-12-15,Jl. Pahlawan No. 44 Semarang,08482645345,dewi.kusuma@email.com,Laki-laki,Guru
+1993,Rina Hidayat,1984-11-07,Jl. Gatot Subroto No. 9 Semarang,08333362960,rina.hidayat@email.com,Laki-laki,Pengacara
+1994,Budi Nurhayati,1979-05-11,Jl. Pahlawan No. 61 Jakarta,08496382278,budi.nurhayati@email.com,Laki-laki,Pengacara
+1995,Ani Kusuma,1992-10-19,Jl. Sudirman No. 19 Yogyakarta,08492992378,ani.kusuma@email.com,Perempuan,Wiraswasta
+1996,Ahmad Santoso,1971-10-17,Jl. Gatot Subroto No. 89 Surabaya,08399911479,ahmad.santoso@email.com,Perempuan,Karyawan Swasta
+1997,Dewi Santoso,1984-07-07,Jl. Pahlawan No. 3 Semarang,08386171183,dewi.santoso@email.com,Perempuan,Guru
+1998,Joko Lestari,2000-07-12,Jl. Pahlawan No. 23 Jakarta,08889184515,joko.lestari@email.com,Laki-laki,Pegawai Negeri
+1999,Siti Nurhayati,1996-04-01,Jl. Sudirman No. 98 Bandung,08953992974,siti.nurhayati@email.com,Perempuan,Insinyur
+2000,Ahmad Kusuma,1999-09-04,Jl. Sudirman No. 39 Jakarta,08611948476,ahmad.kusuma@email.com,Laki-laki,Pegawai Negeri
